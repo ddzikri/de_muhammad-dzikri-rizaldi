@@ -9,10 +9,15 @@ Serangkaian langkah pemrosesan untuk menyiapkan data perusahaan untuk analisis l
 ## TYPES OF DATA PIPELINE
 
 1. Order of Tranformation Flows
+
     •ETL(Extract-Transform-Load)
+
     •ELT(Extract-Load-Transform)
 2. Source of data
+
     •Batch Pipeline
+
         Merupakan sebuah proses Analis yang terjadi pada sekumpulan data yang telah di simpan dari bentangan waktu tertentu. contoh tagihan listrik bulanan.
     •Stream Pipline
+    
         Merupakan sebuah proses Analis yang terjadi pada data real-time. contoh fraud detection.

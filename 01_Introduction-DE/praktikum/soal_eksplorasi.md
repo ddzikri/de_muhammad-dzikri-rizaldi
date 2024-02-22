@@ -12,4 +12,4 @@ Menurut saya Jenis data pipeline yang cocok digunakan adalah batch processing pi
 ### 2.Berdasarkan soal nomor 1, buat diagram sederhana dari data pipeline yang dipilih. Diagram dapat dibuat dengan draw.io, excalidraw atau tools lainnya yang sejenis.
 
 **Jawaban**
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/01_Introduction-DE/screenshot/Diagram1.jpg?raw=true)

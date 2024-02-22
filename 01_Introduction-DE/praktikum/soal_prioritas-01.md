@@ -2,7 +2,7 @@
 
 ### 1. Sebutkan dan jelaskan berbagai skill yang dibutuhkan untuk menjadi seorang data engineer!
 
--.**• Memahami Konsep Pemrogaraman,** Sebagai seorang data engineer harus berhubungan baik oleh bahasa pemrograman seperti python, java, R dan lain sebagainya. karena keterampilan programming dasar merupakan modal awal menjadi seorang data engineer serta bagaimana mengolah data yang baik.
+**• Memahami Konsep Pemrogaraman,** Sebagai seorang data engineer harus berhubungan baik oleh bahasa pemrograman seperti python, java, R dan lain sebagainya. karena keterampilan programming dasar merupakan modal awal menjadi seorang data engineer serta bagaimana mengolah data yang baik.
 
 **• Memahami Database Relasional,** Tentu saja skill ini dibutuhkan karena untuk memelihara data dan mengolah data harus mampu merancang database yang maksimal. Untuk merancang database dibutuhkan melakukan query data yang kompleks.   
 

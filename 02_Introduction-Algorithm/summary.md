@@ -7,7 +7,7 @@ Algoritma adalah sebuah alur komputasi yang di artikan dengan baik yang mengambi
 1. Check Prime Number
 2. Sorting
 3. Searching
-'''
+```
 
 ## Algoritma Dasar
 ```
@@ -17,5 +17,6 @@ Algoritma adalah sebuah alur komputasi yang di artikan dengan baik yang mengambi
 ```
 
 ## Pseudecode
-
+```
 Gambaran dari alogritma pemrograman agar mudah di pahami oleh manusia (flowchart).
+```

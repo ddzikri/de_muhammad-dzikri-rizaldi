@@ -9,3 +9,4 @@
 2. Lakukan Pull Request pada branch tersebut sehingga akan menambah hal baru pada branch main/master
 terdapat foto terkait Pull Request.
 
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/03_Version-Control-System/screenshot/gambar2_soal-prioritas-2.png?raw=true)

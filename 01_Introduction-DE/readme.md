@@ -4,7 +4,7 @@ Data Engineer adalah proses mengambil data mentah dari berbagai sumber(consumer 
 
 ## DATA PIPELINE DEFINITION
 
-Serangkaian langkah pemrosesan untuk menyiapkan data perusahaan untuk analisis lebih lanjut
+Serangkaian langkah pemrosesan untuk menyiapkan data perusahaan untuk analisis lebih lanjut.
 
 ## TYPES OF DATA PIPELINE
 
@@ -19,5 +19,5 @@ Serangkaian langkah pemrosesan untuk menyiapkan data perusahaan untuk analisis l
 
         Merupakan sebuah proses Analis yang terjadi pada sekumpulan data yang telah di simpan dari bentangan waktu tertentu. contoh tagihan listrik bulanan.
     •Stream Pipline
-    
+
         Merupakan sebuah proses Analis yang terjadi pada data real-time. contoh fraud detection.

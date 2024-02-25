@@ -8,7 +8,7 @@
 
     •membuat branch baru bernama frontend
 
-![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/03_Version-Control-System/screenshot/gambar01_soal-no2-eksplorasi.png?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/03_Version-Control-System/screenshot/gambar01_soal-no2-eksplorasi.png?raw=true)
 
     •terdapat management konflik
 

@@ -1,4 +1,0 @@
-manambahkan fitur login = 
-
-1. username dan password
-2. tombol login dan signup

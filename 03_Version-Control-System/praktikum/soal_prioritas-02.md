@@ -1,4 +1,4 @@
-## Soal_prioritas-2
+## Soal_prioritas-02
 
 1. Buatlah branch baru pada Github yang telah kalian buat.
 

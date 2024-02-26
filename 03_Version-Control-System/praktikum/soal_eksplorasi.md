@@ -2,7 +2,8 @@
 1. Pilih project terserah kalian, praktekkan salah satu workflow serderhana dan buktikan dengan Screenshoot. Contoh workflow yang dapat digunakan adalah github flow/gitflow/trunk base. Terdapat foto terkait flow yang disebutkan.
 
     ![alt text](?raw=true)
-
+    
+    ![alt text](?raw=true)
 
 2. Lakukan management konflik pada Github.
 

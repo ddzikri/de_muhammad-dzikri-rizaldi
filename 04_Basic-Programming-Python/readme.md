@@ -1,0 +1,3 @@
+# BASIC PROGRAMMING WITH PYTHON
+
+python adalah salah satu bahasa pemrograman, yang dikategorikan sebagai high level dan python merupakan interpreted language. karena itulah python memungkinkan pengembangan yang lebih cepat dan lebih banyak.Python biasa dipakai dalam pengembangan situs dan perangkat lunak, membuat analisis data, visualisasi data dan otomatisasi tugas. Karena sifatnya yang relatif mudah dipelajari, bahasa pemrograman ini digunakan secara luas oleh non-programmer seperti ilmuwan dan akuntan untuk melakukan tugas harian mereka. Misalnya, dalam mengatur keuangan.

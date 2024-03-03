@@ -15,10 +15,10 @@ class yoga(KelasLatihan):
 
     def tampilkan_info(self):
         super().tampilkan_info()
-        print("Tingkat Kesulitan:",self.tingkat_kesulitan)
+        print("Tingkat Kesulitan:", self.tingkat_kesulitan)
 
     def atur_posisi_yoga(self, posisi):
-        print("Posisi Yoga :", posisi)
+        print("Posisi Yoga diatur menjadi:", posisi)
 
 
 class AngkatBeban(KelasLatihan):
@@ -31,23 +31,17 @@ class AngkatBeban(KelasLatihan):
         print("Berat Maksimum yang Dapat Diangkat:", self.berat_maksimum)
 
     def atur_berat_beban(self, berat):
-        print("Berat Beban :", berat)
+        print("Berat Beban diatur menjadi:", berat)
 
 
 # Demonstrasi Polymor
 latihan1 = yoga("Yoga", "Senin", "Sulit")
-latihan1.tampilkan_info() 
-print("\n")
+latihan1.atur_posisi_yoga("Kayang")
+latihan1.tampilkan_info() # Menampilkan info jenis latihan dan jadwal
 
 latihan2 = AngkatBeban("Angkat Beban", "Rabu", 100)
-latihan2.tampilkan_info() 
-print("\n")
-
-latihan1.atur_posisi_yoga("Kayang")
 latihan2.atur_berat_beban(20)
-print("\n")
-print("Setelah Diperbarui")
-print("\n")
+latihan2.tampilkan_info() # Menampilkan info jenis latihan dan jadwal
 
 # Demonstrasi Polymorphism Lanjutan
 def gunakan_metode_khusus(latihan_objek):

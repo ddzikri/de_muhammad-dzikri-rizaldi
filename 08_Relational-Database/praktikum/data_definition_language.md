@@ -9,7 +9,7 @@
 
     ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/08_Relational-Database/screenshot/DDL_NO-2-A.png?raw=true)
 
-    b. Create table product
+    b. Create table product, product type, operators, product description, payment_method.
 
     ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/08_Relational-Database/screenshot/DDL_NO-2-B.png?raw=true)
 

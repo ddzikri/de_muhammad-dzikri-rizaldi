@@ -11,4 +11,4 @@ Buatlah rancangan skema database dengan kriteria sebagai berikut:
 
 Jawaban
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/08_Relational-Database/screenshot/merancang_skema_database.png?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/08_Relational-Database/screenshot/merancang_skema_database.png?raw=true)

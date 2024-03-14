@@ -1,0 +1,3 @@
+# DATABASE RELASIONAL
+
+database relasional memiliki kemampuan struktur data yang teroganisir, memudahkan penggunaan, fleksibilatas dalam mengakses dan memanipulasi sebuah data melalui bahasa query yaitu sql. Lalu Setiap tabel dalam database merepresentasikan entitas atau objek tertentu, dengan setiap baris mewakili satu instansi dari entitas tersebut. Database relasional juga mampu untuk menjaga integeritas data melalui kunci dan aturan referensial. database relasional menjadi salah satu yang umum digunakan dalam manajemen data di berbagai lingkungan IT. Beberapa konsep database relasional seperti tabel, primary key, foreign key, relational(one-to-one, one-to-many dan many-to-many) dan normalisasi.

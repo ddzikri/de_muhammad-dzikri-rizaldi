@@ -7,12 +7,17 @@
 ## API WORKFLOW
 
 Request --> Request Handling --> Proses --> response
+
 Request <-- Request Handling <-- Proses <-- response
 
 ## HTTP METHOD
 
 POST = CREATE
+
 GET = READ
+
 PUT = UPDATE/REPLACE
+
 PATCH = UPDATE/MODIFY
+
 DELETE = DELETE

@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "2a23af1d-259d-49b6-b394-4cf7a4cc882f",
+		"name": "soal_prioritas-2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31296923",
+		"_collection_link": "https://www.postman.com/telecoms-operator-88219074/workspace/alterra/collection/31296923-2a23af1d-259d-49b6-b394-4cf7a4cc882f?action=share&source=collection_link&creator=31296923"
+	},
+	"item": [
+		{
+			"name": "no-1",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\" : 1,\r\n    \"Title\" : \"Filosofi Kopi\", \r\n    \"Body\"  : \"Belajar filosofi melalui Kopi\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts/1",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "no-2",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userId\": 1,\r\n    \"id\": 1,\r\n    \"title\": \"Filosofi Kopi\",\r\n    \"body\": \"Belajar Filosofi melalui kopi\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts/1",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

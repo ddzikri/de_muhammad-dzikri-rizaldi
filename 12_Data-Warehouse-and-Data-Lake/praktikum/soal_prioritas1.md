@@ -14,18 +14,18 @@ Jawaban
 
 2. Perhatikan diagram ERD berikut.
 
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/soal-prioritas1-no-2.png?raw=true)
 
 Berdasarkan diagram ERD tersebut buatlah berbagai tabel dengan menggunakan Citus.
 
 Jawaban
 
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas1-no-2-A.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas1-no-2-B.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas1-no-2-C.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas1-no-2-D.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas1-no-2.png?raw=true)

@@ -5,6 +5,7 @@
     ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-1.png?raw=true)
 
 2. Berdasarkan diagram ERD yang sudah dibuat pada nomor 1, buatlah berbagai tabel dengan kriteria sebagai berikut:
+
     a. Menggunakan Citus dalam pembuatan tabel.
     b. Menerapkan replication.
     c. Menerapkan sharding.

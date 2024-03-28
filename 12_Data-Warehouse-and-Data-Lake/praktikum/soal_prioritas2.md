@@ -14,4 +14,17 @@
 
     Jawaban
 
-    ![alt text](?raw=true)
+    Sharding
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-A.png?raw=true)
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-B.png?raw=true)
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-C.png?raw=true)
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-D.png?raw=true)
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-E.png?raw=true)
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-F.png?raw=true)
+

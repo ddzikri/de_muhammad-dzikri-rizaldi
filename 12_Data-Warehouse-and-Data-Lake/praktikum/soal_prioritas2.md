@@ -28,3 +28,6 @@
 
     ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-2-F.png?raw=true)
 
+    Replication
+
+    ![alt text](?raw=true)

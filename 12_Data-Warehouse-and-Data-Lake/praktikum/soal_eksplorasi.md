@@ -2,8 +2,9 @@
 
     a. Tampilkan rata-rata dari kepuasan mentor (mentor_satisfaction_score) secara keseluruhan.
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-prioritas2-no-1.png?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/listing_soal-eksplorasi-A.png?raw=true)
 
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/12_Data-Warehouse-and-Data-Lake/screenshot/output_soal-eksplorasi-A.png?raw=true)
 
     b. Tampilkan rata-rata dari kepuasan CS (cs_satisfaction_score) secara keseluruhan.
     c. Tampilkan rata-rata dari kepuasan mentor untuk “Course A”.

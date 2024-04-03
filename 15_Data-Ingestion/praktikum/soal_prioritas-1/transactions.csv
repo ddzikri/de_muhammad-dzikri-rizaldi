@@ -1,0 +1,101 @@
+Transaction ID,User ID,Item Name,Quantity,Value (USD),Status
+1,1001,Smartphone,1,799.99,success
+2,1002,Headphones,2,399.98,success
+3,1003,Laptop,1,999.99,success
+4,1004,Bluetooth Speaker,1,79.99,success
+5,1005,Smartwatch,1,299.99,pending
+6,1006,Tablet,1,399.99,success
+7,1007,Desktop Computer,1,1499.99,failed
+8,1008,TV,1,1499.99,success
+9,1009,Printer,1,199.99,success
+10,1010,Wireless Mouse,1,29.99,success
+11,1011,Wireless Keyboard,1,49.99,success
+12,1012,Gaming Console,1,399.99,failed
+13,1013,External Hard Drive,1,79.99,success
+14,1014,Webcam,1,59.99,pending
+15,1015,Power Bank,1,39.99,success
+16,1016,Backpack,1,49.99,success
+17,1017,Messenger Bag,1,59.99,failed
+18,1018,Travel Duffel Bag,1,79.99,success
+19,1019,Handbag,1,99.99,success
+20,1020,Crossbody Bag,1,39.99,success
+21,1021,Hiking Backpack,1,99.99,success
+22,1022,Suitcase,1,129.99,failed
+23,1023,Tote Bag,1,69.99,success
+24,1024,Shoulder Bag,1,29.99,success
+25,1025,Wallet,1,29.99,success
+26,1026,Belt,1,39.99,failed
+27,1027,Sunglasses,1,59.99,success
+28,1028,Watch,1,499.99,pending
+29,1029,Necktie,1,19.99,success
+30,1030,Scarf,1,29.99,success
+31,1031,Beanie,1,14.99,success
+32,1032,Gloves,1,19.99,failed
+33,1033,Bracelet,1,24.99,success
+34,1034,Backpack,1,19.99,success
+35,1035,Lunch Box,1,14.99,failed
+36,1036,Water Bottle,1,9.99,success
+37,1037,Stroller,1,199.99,success
+38,1038,Car Seat,1,149.99,failed
+39,1039,Diaper Bag,1,39.99,success
+40,1040,Baby Monitor,1,99.99,success
+41,1041,Baby Carrier,1,59.99,success
+42,1042,Playpen,1,79.99,pending
+43,1043,High Chair,1,69.99,success
+44,1044,Baby Swing,1,129.99,failed
+45,1045,Baby Bouncer,1,49.99,success
+46,1046,Toy Car,1,149.99,success
+47,1047,Plush Toy,1,9.99,success
+48,1048,Activity Gym,1,59.99,failed
+49,1049,Puzzle,1,19.99,success
+50,1050,Building Blocks,1,29.99,success
+51,1051,Stuffed Animal,1,14.99,success
+52,1052,Board Book,1,19.99,failed
+53,1053,Bottle Warmer,1,29.99,success
+54,1054,Baby Wipes,1,5.99,success
+55,1055,Teething Toy,1,7.99,pending
+56,1056,Pacifier,1,3.99,success
+57,1057,Baby Bath Tub,1,29.99,success
+58,1058,Baby Shampoo,1,4.99,failed
+59,1059,Baby Lotion,1,6.99,success
+60,1060,Baby Powder,1,3.99,success
+61,1061,Baby Diapers,1,0.25,pending
+62,1062,Baby Formula,1,19.99,success
+63,1063,Baby Food,1,12.99,success
+64,1064,Baby Bibs,1,9.99,failed
+65,1065,Baby Swaddle,1,14.99,success
+66,1066,Baby Onesies,1,19.99,success
+67,1067,Baby Socks,1,7.99,pending
+68,1068,Baby Shoes,1,12.99,success
+69,1069,Baby Hat,1,6.99,failed
+70,1070,Baby Blanket,1,24.99,success
+71,1071,Baby Towel,1,11.99,success
+72,1072,Baby Washcloth,1,5.99,failed
+73,1073,Baby Brush and Comb Set,1,8.99,success
+74,1074,Baby Nail Clippers,1,4.99,success
+75,1075,Baby Thermometer,1,12.99,pending
+76,1076,Play Mat,1,29.99,success
+77,1077,Baby Gate,1,39.99,success
+78,1078,Baby Safety Locks,1,9.99,failed
+79,1079,Baby Proofing Kit,1,29.99,success
+80,1080,Baby Night Light,1,19.99,success
+81,1081,Baby Carrier,1,49.99,failed
+82,1082,Baby Stroller,1,119.99,success
+83,1083,Baby Monitor,1,149.99,success
+84,1084,Baby Swing,1,79.99,failed
+85,1085,Baby Bouncer,1,59.99,success
+86,1086,Baby Playard,1,129.99,success
+87,1087,Baby High Chair,1,69.99,success
+88,1088,Baby Bath Tub,1,49.99,pending
+89,1089,Baby Activity Center,1,99.99,success
+90,1090,Baby Carrier Wrap,1,39.99,success
+91,1091,Baby Nasal Aspirator,1,14.99,failed
+92,1092,Baby Teether,1,6.99,success
+93,1093,Baby Rattle,1,7.99,success
+94,1094,Baby Bath Toys,1,9.99,pending
+95,1095,Baby Board Book,1,14.99,success
+96,1096,Baby Musical Toy,1,12.99,success
+97,1097,Baby Floor Mirror,1,19.99,failed
+98,1098,Baby Mobile,1,29.99,success
+99,1099,Baby Stroller Organizer,1,19.99,success
+100,1100,Baby Sun Hat,1,9.99,failed

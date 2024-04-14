@@ -124,3 +124,17 @@
 [2024-04-14T14:52:55.290+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:55.290+0000] {dag.py:3047} INFO - Sync 1 DAGs
 [2024-04-14T14:52:55.309+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:55.309+0000] {dag.py:3834} INFO - Setting next_dagrun for prioritas_2 to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
 [2024-04-14T14:52:55.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/prioritas_2_dag.py took 0.170 seconds
+[2024-04-14T14:53:25.731+0000] {processor.py:161} INFO - Started process (PID=1130) to work on /opt/airflow/dags/prioritas_2_dag.py
+[2024-04-14T14:53:25.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/prioritas_2_dag.py for tasks to queue
+[2024-04-14T14:53:25.734+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:25.733+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/prioritas_2_dag.py
+[2024-04-14T14:53:25.764+0000] {processor.py:840} INFO - DAG(s) 'prioritas_2' retrieved from /opt/airflow/dags/prioritas_2_dag.py
+[2024-04-14T14:53:25.879+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:25.879+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-04-14T14:53:25.905+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:25.904+0000] {dag.py:3834} INFO - Setting next_dagrun for prioritas_2 to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:53:25.935+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/prioritas_2_dag.py took 0.207 seconds
+[2024-04-14T14:53:56.055+0000] {processor.py:161} INFO - Started process (PID=1189) to work on /opt/airflow/dags/prioritas_2_dag.py
+[2024-04-14T14:53:56.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/prioritas_2_dag.py for tasks to queue
+[2024-04-14T14:53:56.058+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:56.057+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/prioritas_2_dag.py
+[2024-04-14T14:53:56.086+0000] {processor.py:840} INFO - DAG(s) 'prioritas_2' retrieved from /opt/airflow/dags/prioritas_2_dag.py
+[2024-04-14T14:53:56.173+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:56.173+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-04-14T14:53:56.192+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:56.192+0000] {dag.py:3834} INFO - Setting next_dagrun for prioritas_2 to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:53:56.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/prioritas_2_dag.py took 0.161 seconds

@@ -1,0 +1,35 @@
+[2024-04-13T18:47:09.821+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: fruits_data_pipeline.create_fruits_table manual__2024-04-13T18:47:06.154155+00:00 [queued]>
+[2024-04-13T18:47:09.840+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: fruits_data_pipeline.create_fruits_table manual__2024-04-13T18:47:06.154155+00:00 [queued]>
+[2024-04-13T18:47:09.842+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 4
+[2024-04-13T18:47:09.873+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): create_fruits_table> on 2024-04-13 18:47:06.154155+00:00
+[2024-04-13T18:47:09.890+0000] {standard_task_runner.py:60} INFO - Started process 534 to run task
+[2024-04-13T18:47:09.895+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'fruits_data_pipeline', 'create_fruits_table', 'manual__2024-04-13T18:47:06.154155+00:00', '--job-id', '172', '--raw', '--subdir', 'DAGS_FOLDER/eksplorasi.py', '--cfg-path', '/tmp/tmpt_ichpah']
+[2024-04-13T18:47:09.901+0000] {standard_task_runner.py:88} INFO - Job 172: Subtask create_fruits_table
+[2024-04-13T18:47:09.989+0000] {task_command.py:423} INFO - Running <TaskInstance: fruits_data_pipeline.create_fruits_table manual__2024-04-13T18:47:06.154155+00:00 [running]> on host b46e24c16c09
+[2024-04-13T18:47:10.108+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='fruits_data_pipeline' AIRFLOW_CTX_TASK_ID='create_fruits_table' AIRFLOW_CTX_EXECUTION_DATE='2024-04-13T18:47:06.154155+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-13T18:47:06.154155+00:00'
+[2024-04-13T18:47:10.126+0000] {taskinstance.py:2731} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 200, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 217, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/eksplorasi.py", line 25, in create_fruits_table
+    postgres_hook = PostgresOperator(postgres_conn_id="postgres_default")
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/postgres/operators/postgres.py", line 84, in __init__
+    super().__init__(conn_id=postgres_conn_id, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'sql'
+[2024-04-13T18:47:10.141+0000] {taskinstance.py:1149} INFO - Marking task as UP_FOR_RETRY. dag_id=fruits_data_pipeline, task_id=create_fruits_table, execution_date=20240413T184706, start_date=20240413T184709, end_date=20240413T184710
+[2024-04-13T18:47:10.171+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 172 for task create_fruits_table (missing keyword argument 'sql'; 534)
+[2024-04-13T18:47:10.191+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-04-13T18:47:10.221+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/***/models/baseoperator.py:1201: AirflowProviderDeprecationWarning: Call to deprecated class SimpleHttpOperator. (Class `SimpleHttpOperator` is deprecated and will be removed in a future release. Please use `HttpOperator` instead.)
+  result = cls.__new__(cls)
+
+[2024-04-13T18:47:10.269+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

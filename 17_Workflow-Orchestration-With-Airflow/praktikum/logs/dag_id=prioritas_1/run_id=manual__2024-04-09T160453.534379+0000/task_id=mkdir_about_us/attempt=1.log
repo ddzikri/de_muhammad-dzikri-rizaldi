@@ -1,0 +1,16 @@
+[2024-04-09T16:05:00.589+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prioritas_1.mkdir_about_us manual__2024-04-09T16:04:53.534379+00:00 [queued]>
+[2024-04-09T16:05:00.599+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prioritas_1.mkdir_about_us manual__2024-04-09T16:04:53.534379+00:00 [queued]>
+[2024-04-09T16:05:00.600+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 6
+[2024-04-09T16:05:00.615+0000] {taskinstance.py:2217} INFO - Executing <Task(BashOperator): mkdir_about_us> on 2024-04-09 16:04:53.534379+00:00
+[2024-04-09T16:05:00.620+0000] {standard_task_runner.py:60} INFO - Started process 154 to run task
+[2024-04-09T16:05:00.623+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'prioritas_1', 'mkdir_about_us', 'manual__2024-04-09T16:04:53.534379+00:00', '--job-id', '50', '--raw', '--subdir', 'DAGS_FOLDER/prioritas_1_dag.py', '--cfg-path', '/tmp/tmp9wuyezxp']
+[2024-04-09T16:05:00.626+0000] {standard_task_runner.py:88} INFO - Job 50: Subtask mkdir_about_us
+[2024-04-09T16:05:00.678+0000] {task_command.py:423} INFO - Running <TaskInstance: prioritas_1.mkdir_about_us manual__2024-04-09T16:04:53.534379+00:00 [running]> on host a4e8e408792a
+[2024-04-09T16:05:00.779+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='prioritas_1' AIRFLOW_CTX_TASK_ID='mkdir_about_us' AIRFLOW_CTX_EXECUTION_DATE='2024-04-09T16:04:53.534379+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-09T16:04:53.534379+00:00'
+[2024-04-09T16:05:00.782+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-04-09T16:05:00.783+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'mkdir -p about_us']
+[2024-04-09T16:05:00.801+0000] {subprocess.py:86} INFO - Output:
+[2024-04-09T16:05:00.810+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-04-09T16:05:00.860+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=prioritas_1, task_id=mkdir_about_us, execution_date=20240409T160453, start_date=20240409T160500, end_date=20240409T160500
+[2024-04-09T16:05:00.916+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-09T16:05:00.960+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

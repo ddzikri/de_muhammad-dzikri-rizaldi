@@ -1,0 +1,28 @@
+[2024-04-11T11:45:36.828+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prioritas_1_no_2.calculate_sum scheduled__2024-04-10T00:00:00+00:00 [queued]>
+[2024-04-11T11:45:36.841+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prioritas_1_no_2.calculate_sum scheduled__2024-04-10T00:00:00+00:00 [queued]>
+[2024-04-11T11:45:36.842+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 6
+[2024-04-11T11:45:36.861+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): calculate_sum> on 2024-04-10 00:00:00+00:00
+[2024-04-11T11:45:36.869+0000] {standard_task_runner.py:60} INFO - Started process 123 to run task
+[2024-04-11T11:45:36.872+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'prioritas_1_no_2', 'calculate_sum', 'scheduled__2024-04-10T00:00:00+00:00', '--job-id', '77', '--raw', '--subdir', 'DAGS_FOLDER/prioritas_1_no_2_dag.py', '--cfg-path', '/tmp/tmplw39qhtx']
+[2024-04-11T11:45:36.876+0000] {standard_task_runner.py:88} INFO - Job 77: Subtask calculate_sum
+[2024-04-11T11:45:36.939+0000] {task_command.py:423} INFO - Running <TaskInstance: prioritas_1_no_2.calculate_sum scheduled__2024-04-10T00:00:00+00:00 [running]> on host 37bb2da634e2
+[2024-04-11T11:45:37.025+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='prioritas_1_no_2' AIRFLOW_CTX_TASK_ID='calculate_sum' AIRFLOW_CTX_EXECUTION_DATE='2024-04-10T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-04-10T00:00:00+00:00'
+[2024-04-11T11:45:37.028+0000] {taskinstance.py:2731} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 200, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 217, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/prioritas_1_no_2_dag.py", line 17, in calculate_sum
+    ti.xcom_push(key="jumlah")
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+TypeError: xcom_push() missing 1 required positional argument: 'value'
+[2024-04-11T11:45:37.046+0000] {taskinstance.py:1149} INFO - Marking task as UP_FOR_RETRY. dag_id=prioritas_1_no_2, task_id=calculate_sum, execution_date=20240410T000000, start_date=20240411T114536, end_date=20240411T114537
+[2024-04-11T11:45:37.066+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 77 for task calculate_sum (xcom_push() missing 1 required positional argument: 'value'; 123)
+[2024-04-11T11:45:37.086+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-04-11T11:45:37.168+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

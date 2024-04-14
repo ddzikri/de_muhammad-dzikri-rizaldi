@@ -1,0 +1,2 @@
+[2024-04-09T15:42:41.445+0000] {scheduler_job_runner.py:1574} WARNING - Marking task instance <TaskInstance: prioritas_1.echo_hello_airflow scheduled__2024-04-08T00:00:00+00:00 [queued]> stuck in queued as failed. If the task instance has available retries, it will be retried.
+[2024-04-09T15:42:41.865+0000] {scheduler_job_runner.py:780} ERROR - Executor reports task instance <TaskInstance: prioritas_1.echo_hello_airflow scheduled__2024-04-08T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?

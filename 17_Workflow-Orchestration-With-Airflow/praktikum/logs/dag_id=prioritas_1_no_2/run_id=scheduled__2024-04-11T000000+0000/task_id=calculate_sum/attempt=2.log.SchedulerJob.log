@@ -1,0 +1,1 @@
+[2024-04-12T10:15:56.555+0000] {scheduler_job_runner.py:780} ERROR - Executor reports task instance <TaskInstance: prioritas_1_no_2.calculate_sum scheduled__2024-04-11T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?

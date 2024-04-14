@@ -1,0 +1,13 @@
+[2024-04-07T10:18:10.204+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prioritas_1_no_2.generate_random_numbers manual__2024-04-07T10:18:06.246185+00:00 [queued]>
+[2024-04-07T10:18:10.214+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prioritas_1_no_2.generate_random_numbers manual__2024-04-07T10:18:06.246185+00:00 [queued]>
+[2024-04-07T10:18:10.215+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 6
+[2024-04-07T10:18:10.233+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): generate_random_numbers> on 2024-04-07 10:18:06.246185+00:00
+[2024-04-07T10:18:10.242+0000] {standard_task_runner.py:60} INFO - Started process 514 to run task
+[2024-04-07T10:18:10.244+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'prioritas_1_no_2', 'generate_random_numbers', 'manual__2024-04-07T10:18:06.246185+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/prioritas_1_no_2_dag.py', '--cfg-path', '/tmp/tmp1aomfrd6']
+[2024-04-07T10:18:10.247+0000] {standard_task_runner.py:88} INFO - Job 3: Subtask generate_random_numbers
+[2024-04-07T10:18:10.289+0000] {task_command.py:423} INFO - Running <TaskInstance: prioritas_1_no_2.generate_random_numbers manual__2024-04-07T10:18:06.246185+00:00 [running]> on host a170fefa21f9
+[2024-04-07T10:18:10.343+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='prioritas_1_no_2' AIRFLOW_CTX_TASK_ID='generate_random_numbers' AIRFLOW_CTX_EXECUTION_DATE='2024-04-07T10:18:06.246185+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-07T10:18:06.246185+00:00'
+[2024-04-07T10:18:10.345+0000] {python.py:202} INFO - Done. Returned value was: [2, 43, 31, 28, 26, 46, 50, 4, 46, 34, 14, 49, 30, 6, 34, 16, 37, 20, 45, 40, 49, 7, 46, 14, 48]
+[2024-04-07T10:18:10.364+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=prioritas_1_no_2, task_id=generate_random_numbers, execution_date=20240407T101806, start_date=20240407T101810, end_date=20240407T101810
+[2024-04-07T10:18:10.419+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-07T10:18:10.454+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check

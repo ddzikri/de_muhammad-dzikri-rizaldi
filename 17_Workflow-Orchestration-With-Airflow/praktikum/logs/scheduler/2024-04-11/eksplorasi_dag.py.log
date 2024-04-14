@@ -1,0 +1,54 @@
+[2024-04-11T14:50:11.802+0000] {processor.py:161} INFO - Started process (PID=21311) to work on /opt/airflow/dags/eksplorasi_dag.py
+[2024-04-11T14:50:11.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/eksplorasi_dag.py for tasks to queue
+[2024-04-11T14:50:11.805+0000] {logging_mixin.py:188} INFO - [2024-04-11T14:50:11.805+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/eksplorasi_dag.py
+[2024-04-11T14:50:11.939+0000] {logging_mixin.py:188} INFO - [2024-04-11T14:50:11.931+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/eksplorasi_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/eksplorasi_dag.py", line 51, in <module>
+    get_data_task = SimpleHttpOperator(
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/http/operators/http.py", line 355, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/http/operators/http.py", line 125, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 793, in __init__
+    raise AirflowException(
+airflow.exceptions.AirflowException: Invalid arguments were passed to SimpleHttpOperator (task_id: get_data_from_api). Invalid arguments were:
+**kwargs: {'xcom_push': True}
+[2024-04-11T14:50:11.940+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/eksplorasi_dag.py
+[2024-04-11T14:50:11.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/eksplorasi_dag.py took 0.160 seconds
+[2024-04-11T14:50:42.508+0000] {processor.py:161} INFO - Started process (PID=21368) to work on /opt/airflow/dags/eksplorasi_dag.py
+[2024-04-11T14:50:42.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/eksplorasi_dag.py for tasks to queue
+[2024-04-11T14:50:42.511+0000] {logging_mixin.py:188} INFO - [2024-04-11T14:50:42.511+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/eksplorasi_dag.py
+[2024-04-11T14:50:42.563+0000] {logging_mixin.py:188} INFO - [2024-04-11T14:50:42.554+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/eksplorasi_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/eksplorasi_dag.py", line 51, in <module>
+    get_data_task = SimpleHttpOperator(
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/http/operators/http.py", line 355, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/http/operators/http.py", line 125, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 793, in __init__
+    raise AirflowException(
+airflow.exceptions.AirflowException: Invalid arguments were passed to SimpleHttpOperator (task_id: get_data_from_api). Invalid arguments were:
+**kwargs: {'xcom_push': True}
+[2024-04-11T14:50:42.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/eksplorasi_dag.py
+[2024-04-11T14:50:42.584+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/eksplorasi_dag.py took 0.078 seconds

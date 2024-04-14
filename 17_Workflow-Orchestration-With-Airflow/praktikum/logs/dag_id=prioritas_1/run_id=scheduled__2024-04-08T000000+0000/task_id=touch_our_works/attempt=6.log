@@ -1,0 +1,27 @@
+[2024-04-09T15:55:04.912+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prioritas_1.touch_our_works scheduled__2024-04-08T00:00:00+00:00 [queued]>
+[2024-04-09T15:55:04.924+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prioritas_1.touch_our_works scheduled__2024-04-08T00:00:00+00:00 [queued]>
+[2024-04-09T15:55:04.925+0000] {taskinstance.py:2193} INFO - Starting attempt 6 of 6
+[2024-04-09T15:55:04.947+0000] {taskinstance.py:2217} INFO - Executing <Task(BashOperator): touch_our_works> on 2024-04-08 00:00:00+00:00
+[2024-04-09T15:55:04.957+0000] {standard_task_runner.py:60} INFO - Started process 441 to run task
+[2024-04-09T15:55:04.963+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'prioritas_1', 'touch_our_works', 'scheduled__2024-04-08T00:00:00+00:00', '--job-id', '44', '--raw', '--subdir', 'DAGS_FOLDER/prioritas_1_dag.py', '--cfg-path', '/tmp/tmpow575zoz']
+[2024-04-09T15:55:04.969+0000] {standard_task_runner.py:88} INFO - Job 44: Subtask touch_our_works
+[2024-04-09T15:55:05.041+0000] {task_command.py:423} INFO - Running <TaskInstance: prioritas_1.touch_our_works scheduled__2024-04-08T00:00:00+00:00 [running]> on host d204eda78930
+[2024-04-09T15:55:05.157+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='prioritas_1' AIRFLOW_CTX_TASK_ID='touch_our_works' AIRFLOW_CTX_EXECUTION_DATE='2024-04-08T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='6' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-04-08T00:00:00+00:00'
+[2024-04-09T15:55:05.162+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-04-09T15:55:05.167+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'touch our_works/works.txt']
+[2024-04-09T15:55:05.192+0000] {subprocess.py:86} INFO - Output:
+[2024-04-09T15:55:05.200+0000] {subprocess.py:93} INFO - touch: cannot touch 'our_works/works.txt': No such file or directory
+[2024-04-09T15:55:05.202+0000] {subprocess.py:97} INFO - Command exited with return code 1
+[2024-04-09T15:55:05.215+0000] {taskinstance.py:2731} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2024-04-09T15:55:05.221+0000] {taskinstance.py:1149} INFO - Marking task as FAILED. dag_id=prioritas_1, task_id=touch_our_works, execution_date=20240408T000000, start_date=20240409T155504, end_date=20240409T155505
+[2024-04-09T15:55:05.247+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 44 for task touch_our_works (Bash command failed. The command returned a non-zero exit code 1.; 441)
+[2024-04-09T15:55:05.301+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-04-09T15:55:05.401+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

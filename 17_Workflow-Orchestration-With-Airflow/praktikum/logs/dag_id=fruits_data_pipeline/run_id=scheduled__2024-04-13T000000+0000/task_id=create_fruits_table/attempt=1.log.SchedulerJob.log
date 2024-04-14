@@ -1,0 +1,1 @@
+[2024-04-14T14:44:29.722+0000] {scheduler_job_runner.py:780} ERROR - Executor reports task instance <TaskInstance: fruits_data_pipeline.create_fruits_table scheduled__2024-04-13T00:00:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?

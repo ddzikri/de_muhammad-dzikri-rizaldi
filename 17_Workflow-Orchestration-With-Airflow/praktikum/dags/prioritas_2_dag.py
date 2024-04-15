@@ -57,7 +57,7 @@ with DAG(
     write_to_csv_task = PythonOperator(
         task_id='write_to_csv',
         python_callable=write_to_csv,
-        op_kwargs={'file_path': '/data/output/products.csv'},
+        op_kwargs={'file_path': 'dags/data/output/products.csv'},
         provide_context=True
     )
 
@@ -65,14 +65,14 @@ with DAG(
     write_to_txt_task = PythonOperator(
         task_id='write_to_txt',
         python_callable=write_to_txt,
-        op_kwargs={'file_path': '/data/output/products.txt'},
+        op_kwargs={'file_path': 'dags/data/output/products.txt'},
         provide_context=True
     )
 
     # Task untuk menampilkan pesan "done!"
     print_done_task = BashOperator(
         task_id='print_done',
-        bash_command = print_done
+        bash_command='echo "done!"'
     )
 
 # Aliran task

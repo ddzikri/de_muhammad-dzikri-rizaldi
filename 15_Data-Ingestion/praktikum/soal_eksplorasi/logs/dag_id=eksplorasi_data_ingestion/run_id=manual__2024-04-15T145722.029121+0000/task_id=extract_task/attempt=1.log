@@ -1,0 +1,36 @@
+[2024-04-15T14:57:25.720+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-15T14:57:25.747+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: eksplorasi_data_ingestion.extract_task manual__2024-04-15T14:57:22.029121+00:00 [queued]>
+[2024-04-15T14:57:25.762+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: eksplorasi_data_ingestion.extract_task manual__2024-04-15T14:57:22.029121+00:00 [queued]>
+[2024-04-15T14:57:25.763+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-15T14:57:25.779+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): extract_task> on 2024-04-15 14:57:22.029121+00:00
+[2024-04-15T14:57:25.788+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=78) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-04-15T14:57:25.789+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'eksplorasi_data_ingestion', 'extract_task', 'manual__2024-04-15T14:57:22.029121+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/eksplorasi_dag.py', '--cfg-path', '/tmp/tmphv6psrh0']
+[2024-04-15T14:57:25.790+0000] {standard_task_runner.py:63} INFO - Started process 80 to run task
+[2024-04-15T14:57:25.791+0000] {standard_task_runner.py:91} INFO - Job 5: Subtask extract_task
+[2024-04-15T14:57:25.841+0000] {task_command.py:426} INFO - Running <TaskInstance: eksplorasi_data_ingestion.extract_task manual__2024-04-15T14:57:22.029121+00:00 [running]> on host 0467126ea495
+[2024-04-15T14:57:25.946+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='abdan' AIRFLOW_CTX_DAG_ID='eksplorasi_data_ingestion' AIRFLOW_CTX_TASK_ID='extract_task' AIRFLOW_CTX_EXECUTION_DATE='2024-04-15T14:57:22.029121+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-15T14:57:22.029121+00:00'
+[2024-04-15T14:57:25.948+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-15T14:57:26.427+0000] {logging_mixin.py:188} INFO - Extracted books (head):
+[2024-04-15T14:57:26.445+0000] {logging_mixin.py:188} INFO -                     judul           pengarang  tahun_terbit            genre
+0  The Quantum Experiment      Alice Thompson          2018  Science Fiction
+1      Echoes of Infinity  Benjamin Rodriguez          2021          Fantasy
+2       Cipher of Shadows     Catherine White          2019          Mystery
+3          Astral Journey        David Turner          2020        Adventure
+4        Temporal Paradox        Emily Harris          2017  Science Fiction
+[2024-04-15T14:57:26.446+0000] {logging_mixin.py:188} INFO - Extracted books (tail):
+[2024-04-15T14:57:26.456+0000] {logging_mixin.py:188} INFO -                                judul  ...            genre
+45       Infinity's Embrace Extended  ...        Adventure
+46  Whispers of the Stars Reimagined  ...  Science Fiction
+47              Dark Descent Revived  ...           Horror
+48              Mystic Mosaic Mended  ...          Fantasy
+49            Lost Legends Continued  ...          Mystery
+
+[5 rows x 4 columns]
+[2024-04-15T14:57:26.458+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-04-15T14:57:26.459+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-15T14:57:26.466+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=eksplorasi_data_ingestion, task_id=extract_task, execution_date=20240415T145722, start_date=20240415T145725, end_date=20240415T145726
+[2024-04-15T14:57:26.487+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-15T14:57:26.504+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-04-15T14:57:26.506+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

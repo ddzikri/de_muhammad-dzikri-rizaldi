@@ -1,0 +1,32 @@
+[2024-04-15T15:42:21.289+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: eksplorasii_dag.insert_fruit_data manual__2024-04-14T14:46:17.966154+00:00 [queued]>
+[2024-04-15T15:42:21.300+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: eksplorasii_dag.insert_fruit_data manual__2024-04-14T14:46:17.966154+00:00 [queued]>
+[2024-04-15T15:42:21.301+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-04-15T15:42:21.312+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): insert_fruit_data> on 2024-04-14 14:46:17.966154+00:00
+[2024-04-15T15:42:21.318+0000] {standard_task_runner.py:60} INFO - Started process 591 to run task
+[2024-04-15T15:42:21.321+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'eksplorasii_dag', 'insert_fruit_data', 'manual__2024-04-14T14:46:17.966154+00:00', '--job-id', '258', '--raw', '--subdir', 'DAGS_FOLDER/eksplorasi.py', '--cfg-path', '/tmp/tmpniq30ii8']
+[2024-04-15T15:42:21.324+0000] {standard_task_runner.py:88} INFO - Job 258: Subtask insert_fruit_data
+[2024-04-15T15:42:21.369+0000] {task_command.py:423} INFO - Running <TaskInstance: eksplorasii_dag.insert_fruit_data manual__2024-04-14T14:46:17.966154+00:00 [running]> on host a411a5fcc16a
+[2024-04-15T15:42:21.433+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='eksplorasii_dag' AIRFLOW_CTX_TASK_ID='insert_fruit_data' AIRFLOW_CTX_EXECUTION_DATE='2024-04-14T14:46:17.966154+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-14T14:46:17.966154+00:00'
+[2024-04-15T15:42:21.461+0000] {taskinstance.py:2731} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 200, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 217, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/eksplorasi.py", line 14, in insert_fruit_data_into_db
+    conn = hook.get_conn()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/postgres/hooks/postgres.py", line 131, in get_conn
+    conn = deepcopy(self.connection or self.get_connection(conn_id))
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/hooks/base.py", line 82, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/connection.py", line 514, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `eksplorasi_postgres` isn't defined
+[2024-04-15T15:42:21.469+0000] {taskinstance.py:1149} INFO - Marking task as FAILED. dag_id=eksplorasii_dag, task_id=insert_fruit_data, execution_date=20240414T144617, start_date=20240415T154221, end_date=20240415T154221
+[2024-04-15T15:42:21.480+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 258 for task insert_fruit_data (The conn_id `eksplorasi_postgres` isn't defined; 591)
+[2024-04-15T15:42:21.495+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-04-15T15:42:21.513+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

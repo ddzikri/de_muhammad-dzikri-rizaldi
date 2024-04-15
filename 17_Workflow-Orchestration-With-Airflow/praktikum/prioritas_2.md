@@ -1,6 +1,6 @@
 Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
         
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/soal_prioritas_2.png)
 
 Kriteria yang harus dipenuhi:
 
@@ -12,18 +12,14 @@ e. Gunakan Operator berdasarkan jenis task yang dijalankan.
 
 Jawab 
 
-![alt text]() 
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/graph_prioritas_2.png) 
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_2_get_data_from_api.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas__2_get_data_from_api.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas__2_write_to_csv.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas__2_write_to_txt.png)
 
-![alt text]()
-
-![alt text]()
-
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas__2_print_done.png)

@@ -1,6 +1,6 @@
 1. Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/soal_prioritas_1.png)
 
 Catatan:
 
@@ -9,33 +9,23 @@ b. Gunakan BashOperator dalam membuat DAG.
 
 jawaban
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/graph_prioritas_1_no_1.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_1_echo_hello_airflow.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_1_mkdir_about_us.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_1_mkdir_our_work.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_1_touch_about_us.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_1_touch_our_works.png)
 
-![alt text]()
-
-![alt text]()
-
-![alt text]()
-
-![alt text]()
-
-![alt text]()
-
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_1_echo_done.png)
 
 2. Buatlah sebuah DAG dengan menggunakan Apache Airflow berdasarkan gambar berikut:
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/soal_prioritas_1_no_2.png)
 
 Kriteria yang harus dipenuhi:
 
@@ -47,14 +37,12 @@ e. Gunakan PythonOperator dalam membuat DAG.
 
 jawaban
 
-![alt text]() 
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/graph_prioritas_1_no_2.png) 
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_2_generate_random_numbers.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_2_calculate_sum.png)
 
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/xcom_prioritas_1_no_2_calculate_sum.png)
 
-![alt text]()
-
-![alt text]()
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/logs_prioritas_1_no_2_check_even_sum.png)

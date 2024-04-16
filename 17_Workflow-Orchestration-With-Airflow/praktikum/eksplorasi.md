@@ -9,4 +9,6 @@ b. Task kedua bertujuan untuk mendapatkan data dari API. Endpoint API yang digun
 c. Task ketiga bertujuan untuk memasukkan data buah-buahan ke dalam tabel fruits yang sudah dibuat. 
 d. Gunakan Operator berdasarkan jenis task yang dijalankan.
 
-![alt text]()
+jawaban
+
+![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/17_Workflow-Orchestration-With-Airflow/screenshots/graph_eksplorasi.png)

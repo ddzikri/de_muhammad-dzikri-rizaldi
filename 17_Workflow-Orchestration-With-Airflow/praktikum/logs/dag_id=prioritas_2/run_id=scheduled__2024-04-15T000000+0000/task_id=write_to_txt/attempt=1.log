@@ -1,0 +1,13 @@
+[2024-04-16T10:11:17.104+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prioritas_2.write_to_txt scheduled__2024-04-15T00:00:00+00:00 [queued]>
+[2024-04-16T10:11:17.119+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prioritas_2.write_to_txt scheduled__2024-04-15T00:00:00+00:00 [queued]>
+[2024-04-16T10:11:17.120+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 4
+[2024-04-16T10:11:17.146+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): write_to_txt> on 2024-04-15 00:00:00+00:00
+[2024-04-16T10:11:17.157+0000] {standard_task_runner.py:60} INFO - Started process 96 to run task
+[2024-04-16T10:11:17.163+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'prioritas_2', 'write_to_txt', 'scheduled__2024-04-15T00:00:00+00:00', '--job-id', '299', '--raw', '--subdir', 'DAGS_FOLDER/prioritas_2_dag.py', '--cfg-path', '/tmp/tmpjpx58kll']
+[2024-04-16T10:11:17.169+0000] {standard_task_runner.py:88} INFO - Job 299: Subtask write_to_txt
+[2024-04-16T10:11:17.259+0000] {task_command.py:423} INFO - Running <TaskInstance: prioritas_2.write_to_txt scheduled__2024-04-15T00:00:00+00:00 [running]> on host 79463a547290
+[2024-04-16T10:11:17.397+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dzikri' AIRFLOW_CTX_DAG_ID='prioritas_2' AIRFLOW_CTX_TASK_ID='write_to_txt' AIRFLOW_CTX_EXECUTION_DATE='2024-04-15T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-04-15T00:00:00+00:00'
+[2024-04-16T10:11:17.426+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-04-16T10:11:17.441+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=prioritas_2, task_id=write_to_txt, execution_date=20240415T000000, start_date=20240416T101117, end_date=20240416T101117
+[2024-04-16T10:11:17.497+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-04-16T10:11:17.542+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check

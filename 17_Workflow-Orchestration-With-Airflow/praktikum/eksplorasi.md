@@ -8,3 +8,5 @@ a. Task pertama bertujuan untuk membuat tabel dengan nama fruits untuk menyimpan
 b. Task kedua bertujuan untuk mendapatkan data dari API. Endpoint API yang digunakan adalah sebagai berikut: https://www.fruityvice.com/api/fruit/family/Rosaceae 
 c. Task ketiga bertujuan untuk memasukkan data buah-buahan ke dalam tabel fruits yang sudah dibuat. 
 d. Gunakan Operator berdasarkan jenis task yang dijalankan.
+
+![alt text]()

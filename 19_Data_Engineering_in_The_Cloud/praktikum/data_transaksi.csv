@@ -1,0 +1,42 @@
+transaction_id,transaction_date,customer_name,transaction_amount,item_category,item_name,payment_method,status
+1,01-11-2023,John Doe,50.0,book,The Great Gatsby,credit card,success
+5,03-11-2023,Charlie Brown,150.0,book,To Kill a Mockingbird,credit card,success
+9,05-11-2023,Olivia Martin,350.0,book,1984,credit card,success
+12,07-11-2023,William Turner,18.0,kitchen,Toaster,credit card,success
+16,10-11-2023,Lily Anderson,8.0,kitchen,Kitchen Scale,credit card,success
+17,10-11-2023,Mason Evans,280.0,book,The Catcher in the Rye,credit card,success
+20,12-11-2023,Isabella Martinez,35.0,kitchen,Cookware Set,credit card,success
+21,12-11-2023,Noah Clark,9.0,book,Lord of the Rings Trilogy,credit card,success
+25,15-11-2023,Ava Jones,17.0,book,The Hobbit,credit card,success
+27,16-11-2023,Sophie Davis,500.0,technology,Laptop,credit card,success
+29,17-11-2023,Liam Wilson,300.0,book,Harry Potter Box Set,credit card,success
+32,19-11-2023,Grace Moore,19.0,kitchen,Toaster Oven,credit card,success
+33,19-11-2023,Ella Davis,75.0,book,The Shining,credit card,success
+37,21-11-2023,Aiden Turner,160.0,book,The Da Vinci Code,credit card,success
+40,23-11-2023,Mia Robinson,8.0,kitchen,Kitchen Timer,credit card,success
+41,23-11-2023,Noah Wilson,270.0,book,Game of Thrones Box Set,credit card,success
+44,25-11-2023,Sophia Turner,25.0,kitchen,Knife Set,credit card,success
+45,25-11-2023,Oliver Hill,30.0,book,The Hunger Games Trilogy,credit card,success
+48,27-11-2023,Ethan Turner,9.0,kitchen,Baking Sheet,credit card,success
+49,27-11-2023,Chloe Brown,40.5,book,The Alchemist,credit card,success
+52,29-11-2023,Lucas Harris,15.0,kitchen,Peeler,credit card,success
+53,29-11-2023,Amelia Turner,28.5,book,The Girl on the Train,credit card,success
+57,01-12-2023,Sophie Robinson,80.0,book,The Maze Runner Series,credit card,success
+60,03-12-2023,Ella Taylor,20.0,kitchen,Mixing Spoon Set,credit card,success
+61,03-12-2023,Aria Hill,45.0,book,The Fault in Our Stars,credit card,success
+64,05-12-2023,Mia Harris,15.0,kitchen,Cake Pan,credit card,success
+65,05-12-2023,Sophia Turner,60.0,book,The Chronicles of Narnia Box Set,credit card,success
+68,07-12-2023,Chloe Davis,8.0,kitchen,Measuring Cups Set,credit card,success
+72,09-12-2023,Ava Harris,18.0,kitchen,Kitchen Shears,credit card,success
+73,09-12-2023,Ella Turner,65.0,book,The Girl with the Dragon Tattoo,credit card,success
+77,11-12-2023,Aiden Smith,120.0,book,The Outsiders,credit card,success
+80,13-12-2023,Amelia Robinson,14.0,kitchen,Whisk,credit card,success
+81,13-12-2023,Liam Taylor,25.5,book,The Art of War,credit card,success
+84,15-12-2023,Oliver Davis,30.0,kitchen,Strainer,credit card,success
+85,15-12-2023,Sophia Robinson,80.0,book,The Hobbit,credit card,success
+89,17-12-2023,Lucas Robinson,90.0,book,The Kite Runner,credit card,success
+92,19-12-2023,Liam Turner,9.0,kitchen,Kitchen Tongs,credit card,success
+93,19-12-2023,Noah Wilson,150.0,book,The Art of Happiness,credit card,success
+96,21-12-2023,Oliver Brown,15.0,kitchen,Peeler,credit card,success
+97,21-12-2023,Chloe Wilson,75.5,book,The Road,credit card,success
+100,23-12-2023,Mia Robinson,10.0,kitchen,Can Opener,credit card,success

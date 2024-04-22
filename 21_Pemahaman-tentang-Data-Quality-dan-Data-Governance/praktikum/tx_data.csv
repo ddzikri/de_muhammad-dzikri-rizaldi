@@ -1,0 +1,121 @@
+transaction_id,customer_name,transaction_amount,phone_number,transaction_type,transaction_status
+1,John Thor,54000,081234564030,paket data,success
+2,Jane Smith,25000,081234567891,pulsa,success
+3,Michael Johnson,75000,081234567892,ewallet,pending
+4,Emily Davis,32000,081234567893,paket data,success
+5,David Wilson,45000,081234567894,pulsa,failed
+6,Susan Anderson,61000,081234567895,voucher game,success
+7,Robert Clark,29000,081234567896,pulsa,success
+8,Olivia Lee,48000,081234567897,ewallet,failed
+9,William Baker,37000,081234567898,paket data,pending
+10,Elizabeth White,54000,081234567899,pulsa,success
+11,James Taylor,25000,081234567810,voucher game,success
+12,Patricia Garcia,75000,081234567811,pulsa,failed
+13,Christopher Martinez,32000,081234567812,ewallet,pending
+14,Linda Martinez,45000,081234567813,paket data,success
+15,Thomas Harris,61000,081234567814,pulsa,success
+16,Barbara Hall,29000,081234567815,voucher game,success
+17,David Young,48000,081234567816,ewallet,failed
+18,Mary Lewis,37000,081234567817,paket data,pending
+19,Charles Walker,54000,081234567818,pulsa,success
+20,Karen Turner,25000,081234567819,ewallet,success
+21,George Harris,75000,081234567820,pulsa,failed
+22,Margaret Scott,32000,081234567821,paket data,success
+23,Edward Robinson,45000,081234567822,pulsa,success
+24,Jennifer Moore,61000,081234567823,voucher game,success
+25,Richard Lopez,29000,081234567824,pulsa,success
+26,Dorothy Harris,48000,081234567825,ewallet,pending
+27,Joseph Hall,37000,081234567826,paket data,success
+28,Patricia Thompson,54000,081234567827,ewallet,success
+29,Michael Garcia,25000,081234567828,pulsa,failed
+30,Sandra Taylor,75000,081234567829,paket data,pending
+31,David Clark,32000,081234567830,voucher game,success
+32,Nancy Martin,45000,081234567831,ewallet,success
+33,James White,61000,081234567832,pulsa,success
+34,Linda Wilson,29000,081234567833,ewallet,failed
+35,Michael Wilson,48000,081234567834,paket data,success
+36,Elizabeth Turner,37000,081234567835,pulsa,pending
+37,John Jackson,54000,081234567836,voucher game,success
+38,Donna Thomas,25000,081234567837,ewallet,success
+39,William King,75000,081234567838,pulsa,success
+40,Ruth Lee,32000,081234567839,paket data,failed
+41,Thomas Hernandez,45000,081234567840,pulsa,pending
+42,Carol Davis,61000,081234567841,voucher game,success
+43,Christopher Lee,29000,081234567842,pulsa,success
+44,Margaret Lee,48000,081234567843,ewallet,failed
+45,George Allen,37000,081234567844,paket data,pending
+46,Sharon Martinez,54000,081234567845,pulsa,success
+47,Jose Wright,25000,081234567846,voucher game,success
+48,Lisa Walker,75000,081234567847,paket data,pending
+49,David Martin,32000,081234567848,pulsa,failed
+50,Donna Clark,45000,081234567849,ewallet,success
+51,Charles Thompson,61000,081234567850,voucher game,success
+52,Betty Taylor,29000,081234567851,pulsa,failed
+53,James Lewis,48000,081234567852,paket data,pending
+54,Helen Rodriguez,37000,081234567853,pulsa,success
+55,Thomas Wright,54000,081234567854,ewallet,success
+56,Shirley Hall,25000,081234567855,pulsa,success
+57,David Martinez,75000,081234567856,paket data,pending
+58,Karen Wilson,32000,081234567857,pulsa,success
+59,Joseph Thomas,45000,081234567858,voucher game,success
+60,Carol Rodriguez,61000,081234567859,ewallet,failed
+61,Michael Brown,29000,081234567860,pulsa,failed
+62,Linda Jackson,48000,081234567861,ewallet,pending
+63,William Lopez,37000,081234567862,paket data,success
+64,Jennifer Young,54000,081234567863,paket data,success
+65,James Harris,25000,081234567864,voucher game,success
+66,Patricia Davis,75000,081234567865,pulsa,failed
+67,David Harris,32000,081234567866,pulsa,pending
+68,Susan Thomas,45000,081234567867,ewallet,success
+69,Robert Robinson,61000,081234567868,ewallet,success
+70,Karen Turner,29000,081234567869,paket data,pending
+71,Michael Taylor,48000,081234567870,pulsa,failed
+72,Susan Turner,37000,081234567871,voucher game,success
+73,Michael Johnson,54000,081234567872,pulsa,success
+74,Shirley Harris,25000,081234567873,ewallet,pending
+75,David Anderson,75000,081234567874,paket data,success
+76,Donna Davis,32000,081234567875,pulsa,success
+77,Joseph Jackson,45000,081234567876,voucher game,success
+78,Patricia White,61000,081234567877,pulsa,failed
+79,Charles Brown,29000,081234567878,ewallet,pending
+80,Elizabeth Anderson,48000,081234567879,paket data,success
+81,Michael Turner,37000,081234567880,paket data,success
+82,Linda Taylor,54000,081234567881,voucher game,success
+83,James Davis,25000,081234567882,pulsa,pending
+84,Mary Jackson,75000,081234567883,pulsa,success
+85,Robert Davis,32000,081234567884,ewallet,success
+86,Barbara Davis,45000,081234567885,ewallet,failed
+87,William Taylor,61000,081234567886,paket data,failed
+88,Donna Moore,29000,081234567887,pulsa,pending
+89,Michael Harris,48000,081234567888,voucher game,success
+90,Sharon Young,37000,081234567889,pulsa,success
+91,David Clark,54000,081234567890,ewallet,pending
+92,Susan Davis,25000,081234567891,pulsa,failed
+93,Michael Thomas,75000,081234567892,paket data,success
+94,Patricia Johnson,32000,081234567893,pulsa,success
+95,William Harris,45000,081234567894,voucher game,success
+96,Donna Clark,61000,081234567895,ewallet,failed
+97,Robert Davis,29000,081234567896,ewallet,pending
+98,Elizabeth Lewis,48000,081234567897,paket data,success
+99,James Davis,37000,081234567898,pulsa,success
+100,Linda Wilson,54000,081234567899,voucher game,success
+101,David Martin,25000,081234567810,pulsa,failed
+102,Patricia Davis,75000,081234567811,ewallet,success
+103,Charles Jackson,32000,081234567812,paket data,success
+104,Donna Clark,45000,081234567813,pulsa,pending
+105,Thomas Rodriguez,61000,081234567814,voucher game,success
+106,Linda Walker,29000,081234567815,ewallet,pending
+107,James Harris,48000,081234567816,pulsa,failed
+108,Susan Hall,37000,081234567817,ewallet,pending
+109,Michael Martin,54000,081234567818,paket data,success
+110,Patricia Harris,25000,081234567819,paket data,success
+111,William Martinez,75000,081234567820,voucher game,success
+112,Donna Smith,32000,081234567821,pulsa,failed
+113,Michael Garcia,45000,081234567822,ewallet,pending
+114,Sharon Anderson,61000,081234567823,pulsa,success
+115,David Davis,29000,081234567824,ewallet,success
+116,Mary Hall,48000,081234567825,paket data,success
+117,James Jackson,37000,081234567826,ewallet,pending
+118,Elizabeth Turner,54000,081234567827,pulsa,success
+119,Robert Smith,25000,081234567828,voucher game,success
+120,Margaret Wilson,75000,081234567829,pulsa,failed

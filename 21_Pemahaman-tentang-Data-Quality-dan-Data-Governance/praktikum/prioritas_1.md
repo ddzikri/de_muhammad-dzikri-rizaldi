@@ -1,7 +1,5 @@
 1. Sebutkan dan jelaskan berbagai tools yang dapat digunakan untuk meningkatkan kualitas dari sebuah data!
 
-    Jawab
-
     - DataProfiler: Alat profiling data yang memungkinkan Anda untuk memahami struktur, karakteristik, dan kualitas data Anda. Menyediakan berbagai fitur untuk memvisualisasikan data, mengidentifikasi pola, dan mendeteksi anomali.
 
     - Stibo Systems MDM: Platform MDM yang powerful untuk menciptakan dan memelihara master data yang akurat dan konsisten. Membantu Anda untuk mencocokkan dan menggabungkan data dari berbagai sumber, menyelesaikan duplikasi data, dan menegakkan standar data.

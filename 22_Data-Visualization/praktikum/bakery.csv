@@ -1,0 +1,26 @@
+transaction_id,transaction_date,customer_name,transaction_amount,item_name,payment_method,customer_rating,bread_rating
+1,01-11-2023,John Doe,25.00,Croissant,credit card,8,9
+2,01-11-2023,Jane Smith,10.50,Baguette,cash,7,8
+3,02-11-2023,Bob Johnson,15.00,Cinnamon Roll,credit card,9,7
+4,03-11-2023,Alice Williams,8.00,Cinnamon Roll,cash,6,9
+5,03-11-2023,Charlie Brown,12.00,Croissant,credit card,8,8
+6,04-11-2023,David Wilson,30.00,Cinnamon Roll,cash,7,9
+7,04-11-2023,Emma Davis,20.00,Whole Wheat Bread,credit card,9,8
+8,05-11-2023,George Thompson,5.50,Cinnamon Roll,cash,6,7
+9,05-11-2023,Olivia Martin,18.00,Croissant,credit card,8,9
+10,06-11-2023,Samuel Moore,7.00,Shortbread Cookie,cash,7,8
+11,07-11-2023,Sophia White,22.50,Shortbread Cookie,credit card,9,7
+12,07-11-2023,William Turner,12.00,Apple Pie,cash,6,8
+13,08-11-2023,Grace Harris,16.00,Cherry Danish,credit card,8,8
+14,08-11-2023,Ethan Miller,4.50,Brownie,cash,7,7
+15,09-11-2023,James Taylor,10.00,Baguette,credit card,9,9
+16,10-11-2023,Lily Anderson,5.00,Chocolate Eclair,cash,6,8
+17,10-11-2023,Mason Evans,28.00,Chocolate Eclair,credit card,8,7
+18,11-11-2023,Emily Moore,15.50,Chocolate Eclair,cash,7,9
+19,11-11-2023,Lucas Robinson,8.00,Chocolate Eclair,credit card,9,8
+20,12-11-2023,Isabella Martinez,12.00,Butter Croissant,cash,6,7
+21,12-11-2023,Noah Clark,9.00,Chocolate Brownie,cash,8,8
+22,13-11-2023,Chloe Ward,14.00,Chocolate Eclair,credit card,7,9
+23,14-11-2023,Aiden Hill,20.50,Chocolate Eclair,credit card,9,8
+24,14-11-2023,Mia Turner,6.00,Sugar Cookie,cash,8,7
+25,15-11-2023,Ava Jones,17.00,Cranberry Muffin,credit card,7,8

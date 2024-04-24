@@ -1,0 +1,26 @@
+transaction_id,transaction_date,customer_name,transaction_amount,item_name,payment_method
+1,01-11-2023,John Doe,500.00,Laptop,credit card
+2,01-11-2023,Jane Smith,120.50,Headphones,cash
+3,01-11-2023,Bob Johnson,800.00,Smartphone,credit card
+4,01-11-2023,Alice Williams,300.00,Tablet,cash
+5,01-11-2023,Charlie Brown,150.00,USB Drive,credit card
+6,02-11-2023,David Wilson,450.00,Smartwatch,cash
+7,02-11-2023,Emma Davis,200.00,Charging Cable,credit card
+8,02-11-2023,George Thompson,600.00,Bluetooth Speaker,cash
+9,02-11-2023,Olivia Martin,350.00,External Hard Drive,credit card
+10,02-11-2023,Samuel Moore,100.00,Mouse,cash
+11,03-11-2023,Sophia White,750.00,Laptop,credit card
+12,03-11-2023,William Turner,180.00,Headphones,cash
+13,03-11-2023,Grace Harris,900.00,Smartphone,credit card
+14,03-11-2023,Ethan Miller,250.00,Tablet,cash
+15,03-11-2023,Ava Jones,120.00,USB Drive,credit card
+16,04-11-2023,James Taylor,300.00,Smartwatch,cash
+17,04-11-2023,Lily Anderson,150.00,Charging Cable,credit card
+18,04-11-2023,Mason Evans,500.00,Bluetooth Speaker,cash
+19,04-11-2023,Emily Moore,280.00,External Hard Drive,credit card
+20,04-11-2023,Lucas Robinson,80.00,Mouse,cash
+21,05-11-2023,Isabella Martinez,400.00,Laptop,credit card
+22,05-11-2023,Noah Clark,100.00,Headphones,cash
+23,05-11-2023,Chloe Ward,600.00,Smartphone,credit card
+24,05-11-2023,Aiden Hill,200.00,Tablet,cash
+25,05-11-2023,Mia Turner,130.00,USB Drive,credit card

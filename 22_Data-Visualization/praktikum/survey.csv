@@ -1,0 +1,80 @@
+name,age,favorite_front_end,favorite_back_end,salary_per_year_in_USD,company_type
+John Doe,19,JavaScript,Node.js,26000 - 40000,software house
+Jane Smith,31-40,React,Java,more than 60000,fintech
+Alice Johnson,17-20,HTML/CSS,Python,10000 - 25000,freelance
+Bob Williams,26-30,Angular,PHP,41000 - 60000,software house
+Emily Davis,21-25,-,C#,10000 - 25000,edutech
+John Doe,19,JavaScript,Node.js,26000 - 40000,software house
+Jane Smith,31-40,React,Java,more than 60000,fintech
+Alice Johnson,17-20,HTML/CSS,Python,10000 - 25000,freelance
+Bob Williams,26-30,Angular,PHP,41000 - 60000,software house
+Emily Davis,21-25,-,C#,10000 - 25000,edutech
+Sam Brown,-,Vue.js,Node.js,26000 - 40000,software house
+Sophie White,21-25,React,Python,,fintech
+Chris Turner,17-20,JavaScript,,41000 - 60000,edutech
+Mia Green,26-30,Angular,Java,10000 - 25000,government
+Liam Harris,31-40,HTML/CSS,PHP,more than 60000,software house
+Olivia Robinson,17-20,React,Node.js,26000 - 40000,freelance
+Noah Rodriguez,21-25,Vue.js,Python,41000 - 60000,software house
+Emma Lee,26-30,-,Java,10000 - 25000,government
+Aiden Martinez,31-40,Angular,C#,more than 60000,fintech
+Ava Walker,17-20,JavaScript,PHP,26000 - 40000,software house
+James Young,21-25,React,Node.js,,edutech
+Chloe Turner,26-30,HTML/CSS,Python,10000 - 25000,freelance
+Liam Harris,31-40,Angular,Java,more than 60000,software house
+Sophie White,21-25,React,Python,,fintech
+Chris Turner,17-20,JavaScript,,41000 - 60000,edutech
+Mia Green,26-30,Angular,Java,10000 - 25000,government
+Liam Harris,31-40,HTML/CSS,PHP,more than 60000,software house
+Olivia Robinson,17-20,React,Node.js,26000 - 40000,freelance
+Noah Rodriguez,21-25,Vue.js,Python,41000 - 60000,software house
+Emma Lee,26-30,-,Java,10000 - 25000,government
+Aiden Martinez,31-40,Angular,C#,more than 60000,fintech
+Ava Walker,17-20,JavaScript,PHP,26000 - 40000,software house
+James Young,21-25,React,Node.js,,edutech
+Chloe Turner,26-30,HTML/CSS,Python,10000 - 25000,freelance
+Liam Harris,31-40,Angular,Java,more than 60000,software house
+Sophie White,21-25,React,Python,,fintech
+Chris Turner,17-20,JavaScript,,41000 - 60000,edutech
+Mia Green,26-30,Angular,Java,10000 - 25000,government
+Liam Harris,31-40,HTML/CSS,PHP,more than 60000,software house
+Olivia Robinson,17-20,React,Node.js,26000 - 40000,freelance
+Noah Rodriguez,21-25,Vue.js,Python,41000 - 60000,software house
+Emma Lee,26-30,-,Java,10000 - 25000,government
+Aiden Martinez,31-40,Angular,C#,more than 60000,fintech
+Ava Walker,17-20,JavaScript,PHP,26000 - 40000,software house
+James Young,21-25,React,Node.js,,edutech
+Chloe Turner,26-30,HTML/CSS,Python,10000 - 25000,freelance
+Liam Harris,31-40,Angular,Java,more than 60000,software house
+Sophie White,21-25,React,Python,,fintech
+Chris Turner,17-20,JavaScript,,41000 - 60000,edutech
+Mia Green,26-30,Angular,Java,10000 - 25000,government
+Liam Harris,31-40,HTML/CSS,PHP,more than 60000,software house
+Olivia Robinson,17-20,React,Node.js,26000 - 40000,freelance
+Noah Rodriguez,21-25,Vue.js,Python,41000 - 60000,software house
+Emma Lee,26-30,-,Java,10000 - 25000,government
+Aiden Martinez,31-40,Angular,C#,more than 60000,fintech
+Ava Walker,17-20,JavaScript,PHP,26000 - 40000,software house
+James Young,21-25,React,Node.js,,edutech
+Chloe Turner,26-30,HTML/CSS,Python,10000 - 25000,freelance
+Liam Harris,31-40,Angular,Java,more than 60000,software house
+Sophie White,21-25,React,Python,,fintech
+Chris Turner,17-20,JavaScript,,41000 - 60000,edutech
+Mia Green,26-30,Angular,Java,10000 - 25000,government
+Liam Harris,31-40,HTML/CSS,PHP,more than 60000,software house
+Olivia Robinson,17-20,React,Node.js,26000 - 40000,freelance
+Noah Rodriguez,21-25,Vue.js,Python,41000 - 60000,software house
+Emma Lee,26-30,-,Java,10000 - 25000,government
+Aiden Martinez,31-40,Angular,C#,more than 60000,fintech
+Ava Walker,17-20,JavaScript,PHP,26000 - 40000,software house
+James Young,21-25,React,Node.js,,edutech
+Chloe Turner,26-30,HTML/CSS,Python,10000 - 25000,freelance
+Liam Harris,31-40,Angular,Java,more than 60000,software house
+Sophie White,21-25,React,Python,,fintech
+Chris Turner,17-20,JavaScript,,41000 - 60000,edutech
+Mia Green,26-30,Angular,Java,10000 - 25000,government
+Liam Harris,31-40,HTML/CSS,PHP,more than 60000,software house
+Olivia Robinson,17-20,React,Node.js,26000 - 40000,freelance
+Noah Rodriguez,21-25,Vue.js,Python,41000 - 60000,software house
+Emma Lee,26-30,-,Java,10000 - 25000,government
+Aiden Martinez,31-40,Angular,C#,more than 60000,fintech

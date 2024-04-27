@@ -1,16 +1,18 @@
 Dokumentasi:
+
     - Ambil screenshot hasil eksekusi di OpenAI Playground.
+
     - Copy-paste input dan output ke dalam file txt.
 
     Input 1 :
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-1.png)
 
     Kamu seorang yang bekerja sebagai data engineer. Buatkan skema database tentang Aplikasi Sistem Inventaris Barang
 
     Output 1 :
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(1)_prioritas-1.png)
 
     Tentu, berikut adalah skema database sederhana untuk Aplikasi Sistem Inventaris Barang:
 
@@ -47,13 +49,13 @@ Dokumentasi:
 
     Input 2 :
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_prioritas-1.png)
 
     Mengesankan!! Sekarang kamu di berikan tugas untuk membuat skema database tentang Aplikasi Sistem Inventaris Barang dengan query DDL.
 
     Output 2 :
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_prioritas-1.png)
 
     Tentu, berikut adalah query DDL (Data Definition Language) untuk membuat skema database Aplikasi Sistem Inventaris Barang:
 
@@ -97,13 +99,13 @@ Dokumentasi:
 
     Input 3 : 
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(3)_prioritas-1.png)
 
     Keren!! Sekarang tugas kamu buatkan query select dari skema database tersebut!
 
     Output 3 :
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(3)_prioritas-1.png)
 
     Tentu, berikut adalah beberapa contoh query SELECT untuk mengekstrak informasi dari skema database Aplikasi Sistem Inventaris Barang:
 
@@ -130,13 +132,13 @@ Dokumentasi:
 
     Input 4 :
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(4)_prioritas-1.png)
 
     Sangat baikk!! Lalu jelaskan tentang relational database yang terjadi  pada aplikasi Sistem Inventaris Barang!
 
     Output 4 : 
 
-    ![alt text]()
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(4)_prioritas-1.png)
 
     Pada Aplikasi Sistem Inventaris Barang yang telah kita susun skemanya, terdapat beberapa hubungan relational antara tabel-tabel yang berbeda. Hubungan ini memungkinkan kita untuk mengaitkan data antara entitas-entitas yang berbeda dalam database. Berikut adalah hubungan relational yang terjadi:
 
@@ -153,5 +155,7 @@ Dokumentasi:
     Melalui hubungan-hubungan ini, kita dapat melakukan query yang kompleks untuk mengekstrak informasi yang lebih terperinci, seperti melihat riwayat transaksi dari suatu supplier tertentu, mengetahui kategori barang yang paling sering dibeli, atau melihat transaksi-transaksi yang melibatkan barang dengan jumlah tertentu. Hal ini memungkinkan Aplikasi Sistem Inventaris Barang untuk mengelola data secara efisien dan memberikan informasi yang berguna kepada pengguna.
 
 Penjelasan Hasil:
+
     - Buat penjelasan singkat mengenai bagaimana AI memproses input dan menghasilkan output.
+
     - Jelaskan potensi aplikasi hasil ini dalam konteks Data Engineering.

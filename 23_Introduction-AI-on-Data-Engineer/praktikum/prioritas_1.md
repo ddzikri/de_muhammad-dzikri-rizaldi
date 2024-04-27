@@ -156,6 +156,13 @@ Dokumentasi:
 
 Penjelasan Hasil:
 
-    - Buat penjelasan singkat mengenai bagaimana AI memproses input dan menghasilkan output.
+- Buat penjelasan singkat mengenai bagaimana AI memproses input dan menghasilkan output.
 
-    - Jelaskan potensi aplikasi hasil ini dalam konteks Data Engineering.
+    AI menurut saya, merupakan memproses input dengan mengurai teks atau data yang diberikan kepadanya, kemudian menerapkan berbagai teknik pemrosesan bahasa alami atau analisis data, tergantung pada tugas yang diberikan. Seperti saya memberikan tugas untuk membuat skema database Aplikasi Sistem Inventaris Barang, AI dapat digunakan untuk memproses input berupa data inventaris barang, seperti nama barang, deskripsi, jumlah, dan lain-lain.Proses ini melibatkan analisis teks untuk memahami informasi yang terkandung dalam deskripsi barang, pengenalan pola untuk mengidentifikasi tren atau pola dalam data inventaris, dan pengolahan statistik untuk menganalisis ketersediaan barang atau prediksi permintaan di masa mendatang. Setelah memproses input, AI dapat menghasilkan output berupa informasi terstruktur tentang stok barang, perkiraan permintaan, atau rekomendasi strategi manajemen inventaris. Tidak hanya itu ketika kita untuk meminta AI membuat sebuah sintaks sqlQuery untuk menerapakan skema database, maka secara langsung ai membuatkan tabel-tabel dan atribut-atribut di dalamnya secara lengkap serta hubungan antar tabel yang sangat presisi. 
+
+
+- Jelaskan potensi aplikasi hasil ini dalam konteks Data Engineering.
+
+    Pastinya untuk Data Engineerin ini adalah kabar baik,karena hasil dari penggunaan AI memiliki potensi besar untuk mempercepat kita dalam melaksanakan tugas seperti tugas pemroses data otomatis, prediksi dan optimisasi, Pengelolaan Basis Data,Rekomendasi dan Personalisasi dan Pengoptimalan Proses. hal yang disebutkan sebelumnya merupakan keuntungan bagi kita karena AI dapat melakukannya dengan tepat, jadi kita dapat menghemat waktu lebih efisien lagi.
+
+

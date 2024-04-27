@@ -1,0 +1,26 @@
+event_id,name,date,location,category
+1,Ruteng Coffee and Music Festival,2023-08-04,Alun-alun Ruteng,Festival
+2,Jember Fashion Carnival,2023-08-04,Kawasan Wisata Pantai Papuma,Festival
+3,Sumarak Salingka Danau,2023-08-05,Danau Singkarak,Festival
+4,Festival Pesona Danau Toba,2023-08-06,Taman Wisata Alam Danau Toba,Festival
+5,Festival Budaya Tenun Ikat Flores,2023-08-07,Kampung Tenun Ikat Ende,Festival
+6,MotoGP Mandalika,2023-08-19,Sirkuit Internasional Mandalika,Olahraga
+7,Kejuaraan Dunia Panjat Tebing,2023-08-20,Taman Impian Jaya Ancol,Olahraga
+8,Turnamen Sepak Bola Piala Presiden,2023-08-21,Stadion Gelora Bung Karno,Olahraga
+9,Kejuaraan Dunia Bulu Tangkis,2023-08-22,Jakarta Convention Center,Olahraga
+10,ASEAN Para Games,2023-08-23,Jakarta,Olahraga
+11,Pameran Seni Rupa Internasional,2023-08-24,Galeri Nasional Indonesia,Budaya
+12,Pameran Film Internasional,2023-08-25,Jakarta International Film Festival,Budaya
+13,Pameran Buku Internasional,2023-08-26,Pameran Buku Internasional Jakarta,Budaya
+14,Pameran Teknologi Internasional,2023-08-27,Indonesia International Technology Expo,Budaya
+15,Pameran Makanan Internasional,2023-08-28,Indonesian Food and Beverage Expo,Budaya
+16,Konser Musik Internasional,2023-08-29,Jakarta International Expo,Musik
+17,Pertunjukan Teater Internasional,2023-08-30,Taman Ismail Marzuki,Teater
+18,Opera Internasional,2023-08-31,Jakarta Convention Center,Opera
+19,Festival Film Pendek,2023-09-01,Festival Film Pendek Indonesia,Film
+20,Festival Musik Jazz,2023-09-02,Jakarta International Jazz Festival,Musik
+21,Pameran Mobil Internasional,2023-09-03,Indonesia International Motor Show,Otomotif
+22,Pameran Elektronik Internasional,2023-09-04,Indonesia International Electronics Show,Elektronik
+23,Pameran Fashion Internasional,2023-09-05,Jakarta Fashion Week,Fashion
+24,Pameran Perhiasan Internasional,2023-09-06,Indonesia International Jewelry Expo,Perhiasan
+25,Pameran Makanan dan Minuman Halal Internasional,2023-09-07,Indonesia International Halal Expo,Halal

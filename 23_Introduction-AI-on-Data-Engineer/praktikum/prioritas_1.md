@@ -1,18 +1,18 @@
 Dokumentasi:
 
-    - Ambil screenshot hasil eksekusi di OpenAI Playground.
+- Ambil screenshot hasil eksekusi di OpenAI Playground.
 
-    - Copy-paste input dan output ke dalam file txt.
+- Copy-paste input dan output ke dalam file txt.
 
     Input 1 :
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-1.png?raw=true)
 
     Kamu seorang yang bekerja sebagai data engineer. Buatkan skema database tentang Aplikasi Sistem Inventaris Barang
 
     Output 1 :
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(1)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(1)_prioritas-1.png?raw=true)
 
     Tentu, berikut adalah skema database sederhana untuk Aplikasi Sistem Inventaris Barang:
 
@@ -49,13 +49,13 @@ Dokumentasi:
 
     Input 2 :
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_prioritas-1.png?raw=true)
 
     Mengesankan!! Sekarang kamu di berikan tugas untuk membuat skema database tentang Aplikasi Sistem Inventaris Barang dengan query DDL.
 
     Output 2 :
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_prioritas-1.png?raw=true)
 
     Tentu, berikut adalah query DDL (Data Definition Language) untuk membuat skema database Aplikasi Sistem Inventaris Barang:
 
@@ -99,13 +99,13 @@ Dokumentasi:
 
     Input 3 : 
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(3)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(3)_prioritas-1.png?raw=true)
 
     Keren!! Sekarang tugas kamu buatkan query select dari skema database tersebut!
 
     Output 3 :
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(3)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(3)_prioritas-1.png?raw=true)
 
     Tentu, berikut adalah beberapa contoh query SELECT untuk mengekstrak informasi dari skema database Aplikasi Sistem Inventaris Barang:
 
@@ -132,13 +132,13 @@ Dokumentasi:
 
     Input 4 :
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(4)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(4)_prioritas-1.png?raw=true)
 
     Sangat baikk!! Lalu jelaskan tentang relational database yang terjadi  pada aplikasi Sistem Inventaris Barang!
 
     Output 4 : 
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(4)_prioritas-1.png)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(4)_prioritas-1.png?raw=true)
 
     Pada Aplikasi Sistem Inventaris Barang yang telah kita susun skemanya, terdapat beberapa hubungan relational antara tabel-tabel yang berbeda. Hubungan ini memungkinkan kita untuk mengaitkan data antara entitas-entitas yang berbeda dalam database. Berikut adalah hubungan relational yang terjadi:
 

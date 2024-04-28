@@ -29,7 +29,8 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
 
 - Masukkan data contoh (misalnya, data transaksi pelanggan) dan eksplorasi potensi solusi menggunakan AI.
 
-        {
+    {
+
     "product_id": "P001",
 
     "product_name": "Sepatu Lari Nike Air Zoom Pegasus 37",
@@ -50,6 +51,7 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
 
         "Upper mesh untuk sirkulasi udara yang baik"
     ]
+    
     }
 
     Penjelasan singkat mengenai struktur data ini:

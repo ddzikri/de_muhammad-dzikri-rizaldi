@@ -14,7 +14,7 @@ Analisis Mendalam:
         - AI dapat melakukan analisis data yang mendalam untuk mengidentifikasi pola dan masalah yang memerlukan optimasi, memungkinkan pengambilan keputusan yang lebih cerdas.
         
     Keterbatasan :
-    
+
         - Meskipun AI dapat melakukan analisis data, namun keterbatasan pengetahuan domain dalam aplikasi sistem inventaris barang dapat mengurangi akurasi rekomendasi solusi.
             
         -  Kemampuan AI untuk memberikan rekomendasi solusi jugatergantung pada kualitas dan ketersediaan data yang diberikan. Keterbatasan data dapat mengurangi akurasi rekomendasi yang   
@@ -29,7 +29,7 @@ Dokumentasi dan Penjelasan:
     
     Input 1 :
 
-    Sangat baikk!! Lalu jelaskan tentang relational database yang terjadi  pada aplikasi Sistem Inventaris Barang!
+    Sekarang, sebelum lanjut ke tahap eksekusi lanjutan kamu diberi tugas untuk menggambarkan  apa itu optimasi query sql
 
     ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-2.png?raw=true)
 

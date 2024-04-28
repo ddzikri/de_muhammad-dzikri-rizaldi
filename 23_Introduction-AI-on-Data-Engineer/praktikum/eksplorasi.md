@@ -25,36 +25,36 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
 
 2. Penggunaan OpenAI Playground (Opsional):
 
-- Gunakan OpenAI Playground untuk menghasilkan ide atau solusi untuk meningkatkan sistem rekomendasi.
+    - Gunakan OpenAI Playground untuk menghasilkan ide atau solusi untuk meningkatkan sistem rekomendasi.
 
-- Masukkan data contoh (misalnya, data transaksi pelanggan) dan eksplorasi potensi solusi menggunakan AI.
+    - Masukkan data contoh (misalnya, data transaksi pelanggan) dan eksplorasi potensi solusi menggunakan AI.
     
-```
-{
+        ```
+        {
 
-"product_id": "P001",
+        "product_id": "P001",
 
-"product_name": "Sepatu Lari Nike Air Zoom Pegasus 37",
+        "product_name": "Sepatu Lari Nike Air Zoom Pegasus 37",
 
-"category": "Sepatu",
+        "category": "Sepatu",
 
-"brand": "Nike",
+        "brand": "Nike",
 
-"price": 1500000,
+        "price": 1500000,
 
-"description": "Sepatu lari Nike Air Zoom Pegasus 37 hadir dengan desain ringan dan responsif. Dilengkapi dengan teknologi Zoom Air untuk kenyamanan dan performa maksimal.",
+        "description": "Sepatu lari Nike Air Zoom Pegasus 37 hadir dengan desain ringan dan responsif. Dilengkapi dengan teknologi Zoom Air untuk kenyamanan dan performa maksimal.",
 
-"features": [
+        "features": [
 
-    "Teknologi Zoom Air",
+            "Teknologi Zoom Air",
 
-    "Ringan dan responsif",
+            "Ringan dan responsif",
 
-    "Upper mesh untuk sirkulasi udara yang baik"
-]
+            "Upper mesh untuk sirkulasi udara yang baik"
+        ]
 
-}
-```
+        }
+        ```
 
 Penjelasan singkat mengenai struktur data ini:
 

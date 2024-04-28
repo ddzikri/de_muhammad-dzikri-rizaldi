@@ -32,7 +32,7 @@ Dokumentasi dan Penjelasan:
 
         Sangat baikk!! Lalu jelaskan tentang relational database yang terjadi  pada aplikasi Sistem Inventaris Barang!
 
-        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-2.png?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-2.png?raw=true)
 
         Output  1 :
 
@@ -58,13 +58,13 @@ Dokumentasi dan Penjelasan:
 
         Masuk ditahap Eksekusi Lanjutan!! Sekarang Terapkan optimasi query SQL kepada query skema database kita sebelumnya yaitu tentang Aplikasi Sistem Inventaris Barang
 
-        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_prioritas-2.png?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_prioritas-2.png?raw=true)
 
         Output 2 :
 
-        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_prioritas-2.png?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_prioritas-2.png?raw=true)
 
-        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2.1)_prioritas-2.png?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2.1)_prioritas-2.png?raw=true)
 
         Tentu! Untuk menerapkan optimasi query SQL pada skema database Aplikasi Sistem Inventaris Barang, kita dapat melakukan beberapa perubahan pada query-query yang telah disediakan sebelumnya. Berikut adalah contoh-contoh perubahan yang dapat dilakukan untuk meningkatkan kinerja query:
 

@@ -97,13 +97,13 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
             - Menyebarkan model pembelajaran mesin ke server produksi.
 
             - Menggabungkan data produk dengan data profil pelanggan dan data interaksi untuk 
-            membangun profil pelanggan yang lebih kaya dan mendalam.
+              membangun profil pelanggan yang lebih kaya dan mendalam.
 
             - Memilih, mengimplementasikan, dan menguji algoritma rekomendasi yang sesuai dengan 
-            kebutuhan perusahaan Anda.
+              kebutuhan perusahaan Anda.
 
             - Melakukan pengujian menyeluruh terhadap sistem rekomendasi yang telah diperbarui 
-                untuk memastikan bahwa itu memberikan rekomendasi yang akurat dan relevan kepada pelanggan.
+              untuk memastikan bahwa itu memberikan rekomendasi yang akurat dan relevan kepada pelanggan.
         
 4. Dokumentasi dan Presentasi:
 

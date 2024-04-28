@@ -1,0 +1,14 @@
+Tanggal,Jumlah_Penjualan,Harga,Kategori_Produk,Metode_Pembayaran,Lokasi_Pembeli
+2021-01-01,50,100,Elektronik,Kartu Kredit,Jakarta
+2021-01-02,30,50,Fashion,Transfer Bank,Bandung
+2021-01-03,20,200,Mainan,Tunai,Surabaya
+2021-01-04,40,150,Perhiasan,Kartu Debit,Semarang
+2021-01-05,60,80,Kosmetik,Kartu Kredit,Medan
+2021-01-06,35,120,Elektronik,Transfer Bank,Jakarta
+2021-01-07,45,70,Fashion,Tunai,Bandung
+2021-01-08,25,180,Mainan,Kartu Debit,Surabaya
+2021-01-09,55,90,Perhiasan,Transfer Bank,Semarang
+2021-01-10,65,60,Kosmetik,Kartu Kredit,Medan
+
+
+

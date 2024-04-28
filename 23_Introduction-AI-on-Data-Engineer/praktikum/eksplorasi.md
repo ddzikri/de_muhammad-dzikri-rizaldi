@@ -56,23 +56,23 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
         }
         ```
 
-    Penjelasan singkat mengenai struktur data ini:
+        Penjelasan singkat mengenai struktur data ini:
 
-        - product_id: ID unik untuk setiap produk.
-        
-        - product_name: Nama produk.
-        
-        - category: Kategori produk, seperti sepatu, pakaian, atau aksesori.
-        
-        - brand: Merek produk.
-        
-        - price: Harga produk dalam mata uang tertentu.
-        
-        - description: Deskripsi singkat tentang produk.
-        
-        - features: Fitur-fitur utama dari produk, disajikan dalam bentuk daftar.
-        
-    Anda dapat mengumpulkan data produk sebenarnya dari sumber internal perusahaan Anda atau menggunakan data produk dari contoh produk yang ada di platform e-commerce yang sudah ada. Data ini dapat digunakan untuk membangun basis data produk yang lebih lengkap dan bervariasi, yang nantinya akan membantu dalam membuat rekomendasi produk yang lebih relevan untuk pelanggan.
+            - product_id: ID unik untuk setiap produk.
+            
+            - product_name: Nama produk.
+            
+            - category: Kategori produk, seperti sepatu, pakaian, atau aksesori.
+            
+            - brand: Merek produk.
+            
+            - price: Harga produk dalam mata uang tertentu.
+            
+            - description: Deskripsi singkat tentang produk.
+            
+            - features: Fitur-fitur utama dari produk, disajikan dalam bentuk daftar.
+            
+        Anda dapat mengumpulkan data produk sebenarnya dari sumber internal perusahaan Anda atau menggunakan data produk dari contoh produk yang ada di platform e-commerce yang sudah ada. Data ini dapat digunakan untuk membangun basis data produk yang lebih lengkap dan bervariasi, yang nantinya akan membantu dalam membuat rekomendasi produk yang lebih relevan untuk pelanggan.
 
 
 3. Evaluasi Solusi:

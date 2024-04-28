@@ -31,14 +31,23 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
 
         {
     "product_id": "P001",
+
     "product_name": "Sepatu Lari Nike Air Zoom Pegasus 37",
+
     "category": "Sepatu",
+
     "brand": "Nike",
+
     "price": 1500000,
+
     "description": "Sepatu lari Nike Air Zoom Pegasus 37 hadir dengan desain ringan dan responsif. Dilengkapi dengan teknologi Zoom Air untuk kenyamanan dan performa maksimal.",
+
     "features": [
+
         "Teknologi Zoom Air",
+
         "Ringan dan responsif",
+
         "Upper mesh untuk sirkulasi udara yang baik"
     ]
     }
@@ -98,18 +107,18 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
 
     input  1 :
         
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_eksplorasi.png?raw=true)
 
     Output 1 :
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(1)_eksplorasi.png?raw=true)
         
     Input 2 :
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_eksplorasi.png?raw=true)
 
     Output 2 :
 
-    ![alt text](?raw=true)
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_eksplorasi.png?raw=true)
 
 - Buat laporan atau presentasi yang menjelaskan bagaimana AI dapat membantu meningkatkan sistem rekomendasi.

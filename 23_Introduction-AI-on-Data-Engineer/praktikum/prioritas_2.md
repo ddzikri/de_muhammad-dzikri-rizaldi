@@ -1,10 +1,11 @@
 Analisis Mendalam:
-    - Analisis bagaimana AI memproses input yang lebih kompleks.
+
+- Analisis bagaimana AI memproses input yang lebih kompleks.
         
         AI dapat menjadi alat yang berguna dalam optimasi query SQL untuk apllikasi sistem inventaris barang. Karena AI memiliki kemampuan untuk memproses input yang kompleks dan memahami konteks permintaan pengguna. Dengan input yang lebih kompleks pastinya AI akan menganalisis data yang mendalam, AI dapat mengidentifikasi area-area di mana optimasi diperlukan, seperti penggunaan indeks, optimasi query, atau perubahan skema database. Apalagi AI akan memberikan berbagai macam rekomendasi solusi karena analisis data yang mendalam tersebut.
 
 
-    - Identifikasi kelebihan dan keterbatasan AI dalam kasus ini.
+- Identifikasi kelebihan dan keterbatasan AI dalam kasus ini.
 
         Kelebihan :
             - AI mampu memahami perintah dan permintaan pengguna dalam  
@@ -22,18 +23,20 @@ Analisis Mendalam:
 
 
 Dokumentasi dan Penjelasan:
-    - Ambil screenshot hasil eksekusi lanjutan.
-    - Copy-paste input dan output ke dalam file txt.
+
+- Ambil screenshot hasil eksekusi lanjutan.
+
+- Copy-paste input dan output ke dalam file txt.
     
         Input 1 :
 
         Sangat baikk!! Lalu jelaskan tentang relational database yang terjadi  pada aplikasi Sistem Inventaris Barang!
 
-        ![alt text](?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(1)_prioritas-2.png?raw=true)
 
         Output  1 :
 
-        ![alt text](?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(1)_prioritas-2.png?raw=true)
 
         Pada Aplikasi Sistem Inventaris Barang yang telah kita susun skemanya, terdapat beberapa hubungan relational antara tabel-tabel yang berbeda. Hubungan ini memungkinkan kita untuk mengaitkan data antara entitas-entitas yang berbeda dalam database. Berikut adalah hubungan relational yang terjadi
 
@@ -55,13 +58,13 @@ Dokumentasi dan Penjelasan:
 
         Masuk ditahap Eksekusi Lanjutan!! Sekarang Terapkan optimasi query SQL kepada query skema database kita sebelumnya yaitu tentang Aplikasi Sistem Inventaris Barang
 
-        ![alt text](?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/input(2)_prioritas-2.png?raw=true)
 
         Output 2 :
 
-        ![alt text](?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_prioritas-2.png?raw=true)
 
-        ![alt text](?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2.1)_prioritas-2.png?raw=true)
 
         Tentu! Untuk menerapkan optimasi query SQL pada skema database Aplikasi Sistem Inventaris Barang, kita dapat melakukan beberapa perubahan pada query-query yang telah disediakan sebelumnya. Berikut adalah contoh-contoh perubahan yang dapat dilakukan untuk meningkatkan kinerja query:
 
@@ -96,6 +99,6 @@ Dokumentasi dan Penjelasan:
                   kinerja.
                 - Misalnya, gunakan EXPLAIN untuk menganalisis eksekusi query dan memeriksa penggunaan indeks.  
 
-    - Buat penjelasan mendalam tentang hasil dan implikasinya dalam Data Engineering.
+- Buat penjelasan mendalam tentang hasil dan implikasinya dalam Data Engineering.
 
-        Dalam konteks Data engineering memiliki implikasi yang beragam seperti melakukan optimasi query, Data Engineer dapat meningkatkan kinerja sistem secara keseluruhan, memungkinkan skalabilitas yang lebih baik. Dengan mengurangi biaya operasional melalui penghematan infrastruktur dan sumber daya komputasi, perusahaan dapat meningkatkan efisiensi penggunaan sumber daya yang ada. Hal ini juga berkontribusi pada peningkatan daya saing bisnis, karena perusahaan dapat menyediakan layanan yang lebih baik dengan biaya yang lebih rendah. sehingga dapat menangani pertumbuhan data yang cepat dan meningkatkan keandalan dan ketersediaan layanan data. Oleh karena itu, hasil dari pemrosesan data yang efisien memiliki implikasi yang luas dan signifikan dalam mendukung kesuksesan bisnis perusahaan dalam era digital ini.
+    Dalam konteks Data engineering memiliki implikasi yang beragam seperti melakukan optimasi query, Data Engineer dapat meningkatkan kinerja sistem secara keseluruhan, memungkinkan skalabilitas yang lebih baik. Dengan mengurangi biaya operasional melalui penghematan infrastruktur dan sumber daya komputasi, perusahaan dapat meningkatkan efisiensi penggunaan sumber daya yang ada. Hal ini juga berkontribusi pada peningkatan daya saing bisnis, karena perusahaan dapat menyediakan layanan yang lebih baik dengan biaya yang lebih rendah. sehingga dapat menangani pertumbuhan data yang cepat dan meningkatkan keandalan dan ketersediaan layanan data. Oleh karena itu, hasil dari pemrosesan data yang efisien memiliki implikasi yang luas dan signifikan dalam mendukung kesuksesan bisnis perusahaan dalam era digital ini.

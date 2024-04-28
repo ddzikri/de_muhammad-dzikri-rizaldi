@@ -16,7 +16,7 @@
 
 ### AI Ethics & Social Impact
 
-    - Sisi negatif A.I.
+    1. Sisi negatif A.I.
         
         - Potential bias and discrimination
 
@@ -30,7 +30,7 @@
 
         - Technology dependency
 
-    - 4 etika dalam penggunaan/pengembangan A.I.
+    2. 4 etika dalam penggunaan/pengembangan A.I.
 
         - fairness
 
@@ -42,7 +42,7 @@
 
 ### The Future of AI in Data Engineering
 
-    - Current Trends and Predictions
+    1. Current Trends and Predictions
 
         - peningkatan Otomatisasi: AI diharapkan dapat mengotomatiskan  
           tugas-tugas data yang lebih kompleks, mengurangi kebutuhan akan intervensi manual dan memungkinkan para insinyur data untuk fokus pada strategi dan inovasi.
@@ -53,7 +53,7 @@
         - Tata Kelola Data Berbasis AI: AI akan memainkan peran penting 
           dalam pengelolaan kualitas data, privasi, dan kepatuhan, terutama dengan peraturan yang terus berkembang seperti GDPR. 
     
-    - Skills Required for Future Data Engineers
+    2. Skills Required for Future Data Engineers
         
         - Machine Learning Expertise
 

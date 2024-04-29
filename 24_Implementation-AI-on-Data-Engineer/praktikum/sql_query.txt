@@ -1,0 +1,9 @@
+SELECT 
+    DATE_FORMAT(tanggal_transaksi, "%Y-%m") AS bulan,
+    kategori_produk,
+    SUM(jumlah_penjualan) AS total_penjualan,
+    SUM(harga) AS total_harga
+FROM 
+    penjualan
+GROUP BY 
+    bulan, kategori_produk;

@@ -4,27 +4,37 @@ Big data adalah sekumpulan data dengan jumlah yang sangat besar yang bisa mencap
 
 ### Sumber Big data
 
-- Kueri Pencarian
-- Aktivitas User
-- jumlah Video di Platform Online
-- Transaksi Online
+    - Kueri Pencarian
+
+    - Aktivitas User
+
+    - jumlah Video di Platform Online
+
+    - Transaksi Online
 
 ### Big Data 5V
 
-- Volume
-- Velocity
-- Variety
-- Veracity
-- Value
+    - Volume
+
+    - Velocity
+
+    - Variety
+
+    - Veracity
+
+    - Value
 
 ### Jenis-jenis Data
 
-- terstruktur 
-- semi terstruktur
-- tidak terstruktur
+    - terstruktur 
+
+    - semi terstruktur
+
+    - tidak terstruktur
 
 ### Tools Bigdata
 
-- Apache hadoop
-- Apache spark
+    - Apache hadoop
+    
+    - Apache spark
 

@@ -25,5 +25,5 @@
     - Teknologi LaMDA: Bard AI didasarkan pada teknologi LaMDA milik Google, yang merupakan model bahasa khusus Google yang dirancang untuk percakapan yang lebih alami dan bervariasi.
 ### What is Prompt Engineer
 
-    Prompt Engineering adalah teknik yang digunakan untuk mengoptimalkan output dari model AI dengan memberikan perintah atau instruksi kepada model tersebut.
+  Prompt Engineering adalah teknik yang digunakan untuk mengoptimalkan output dari model AI dengan memberikan perintah atau instruksi kepada model tersebut.
 

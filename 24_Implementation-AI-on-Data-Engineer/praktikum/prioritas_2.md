@@ -4,9 +4,19 @@ Sebuah perusahaan retail ingin mengoptimalkan proses analisis data penjualan mer
 
     - Buatkan tabel dengan atribut kurang lebih memiliki tanggal transaksi, jumlah penjualan, harga, kategori produk, dan lainnya
 
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_1_prioritas_2.png?raw=true)
+
+    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_1.1_prioritas_2.png?raw=true)
+
+
 2. Generate SQL dengan OpenAI API:
 
     - Gunakan OpenAI API untuk menghasilkan SQL queries. Misalnya, berikan prompt seperti "Buatkan SQL query untuk menghitung total penjualan per kategori produk setiap bulan."
+
+    ![alt text](?raw=true)
+
+    ![alt text](?raw=true)
+
 
     - Catat respons AI dan analisis keakuratan serta relevansi query yang dihasilkan.
 

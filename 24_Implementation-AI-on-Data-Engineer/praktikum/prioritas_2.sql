@@ -8,7 +8,6 @@ CREATE TABLE Penjualan (
     jumlah_penjualan INT,
     harga DECIMAL(10, 2),
     kategori_produk VARCHAR(255),
-    -- Tambahkan kolom lainnya sesuai kebutuhan
 );
 
 INSERT INTO Penjualan (tanggal_transaksi, jumlah_penjualan, harga, kategori_produk)
@@ -21,7 +20,12 @@ VALUES
     ('2024-04-06', 18, 180.00, 'Pakaian'),
     ('2024-04-07', 25, 250.00, 'Aksesoris');
 
-SELECT YEAR(tanggal_transaksi) AS tahun, MONTH(tanggal_transaksi) AS bulan, kategori_produk, SUM(jumlah_penjualan) AS total_penjualan
-FROM Penjualan
-GROUP BY tahun, bulan, kategori_produk
-ORDER BY tahun DESC, bulan DESC, total_penjualan DESC;
+SELECT 
+    DATE_FORMAT(tanggal_transaksi, "%Y-%m") AS bulan,
+    kategori_produk,
+    SUM(jumlah_penjualan) AS total_penjualan,
+    SUM(harga) AS total_harga
+FROM 
+    penjualan
+GROUP BY 
+    bulan, kategori_produk;

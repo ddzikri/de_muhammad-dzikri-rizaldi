@@ -20,7 +20,7 @@
 
         Dengan menganalisis dataset tersebut dan mengikuti rekomendasi di atas, perusahaan dapat membuat keputusan bisnis yang lebih cerdas dan strategis untuk meningkatkan penjualan dan mengoptimalkan hasil.
 
-        ![alt text](?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/analisis_zara.png?raw=true)
 
 2. Implementasi Strategi Berbasis AI:
 
@@ -41,12 +41,14 @@
             Analisis musiman menunjukkan  pola penjualan yang berkaitan dengan periode musiman dan hari libur.
             Kami merekomendasikan penggunaan model prediktif untuk memperkirakan permintaan produk selama periode musiman dan menyesuaikan strategi inventaris dan produksi berdasarkan perkiraan permintaan.
 
-        4. Penguatan Merek dan Strategi Pemasaran: Analisis kami juga memberi tahu Anda merek mana yang paling populer atau memiliki volume penjualan tertinggi.
-
+        4. Penguatan Merek dan Strategi Pemasaran 
+        
+            Analisis kami juga memberi tahu Anda merek mana yang paling populer atau memiliki volume penjualan tertinggi.
             Kami merekomendasikan untuk memperkuat merek-merek tersebut melalui kampanye pemasaran yang kreatif dan inovatif.
  
-        5. Penyesuaian Strategi Penetapan Harga: Analisis harga menunjukkan adanya hubungan yang signifikan antara harga dan volume penjualan.
-        
+        5. Penyesuaian Strategi Penetapan Harga
+
+            Analisis harga menunjukkan adanya hubungan yang signifikan antara harga dan volume penjualan.
             Oleh karena itu, kami menyarankan untuk melakukan penyesuaian harga yang lebih cerdas berdasarkan faktor-faktor seperti permintaan pasar, persaingan, dan perilaku pembelian pelanggan.
 
 

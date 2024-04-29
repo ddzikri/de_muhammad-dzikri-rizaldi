@@ -1,0 +1,13 @@
+Setelah menganalisis dataset tersebut, berikut adalah beberapa rekomendasi yang dapat membantu dalam pengambilan keputusan bisnis:
+
+1. Analisis Promosi: Melihat hubungan antara Promosi dan Volume Penjualan dapat membantu dalam merumuskan strategi promosi yang lebih efektif. Jika promosi tertentu meningkatkan volume penjualan secara signifikan, maka perlu dipertimbangkan untuk mengalokasikan sumber daya lebih banyak ke dalam promosi tersebut.
+
+2. Analisis Kategori Produk: Memahami kategori produk mana yang memiliki penjualan terbaik dapat membantu dalam mengidentifikasi produk-produk yang paling diminati oleh pelanggan. Ini dapat memungkinkan perusahaan untuk fokus pada pengembangan produk di kategori-kategori yang memiliki potensi penjualan yang tinggi.
+
+3. Analisis Musim: Memahami pola musiman dalam penjualan dapat membantu dalam merencanakan persediaan dan strategi penjualan. Misalnya, jika penjualan lebih tinggi selama musim liburan, maka perlu dipertimbangkan untuk meningkatkan persediaan dan promosi selama periode tersebut.
+
+4. Analisis Brand: Mengetahui brand mana yang paling populer atau memiliki volume penjualan terbesar dapat membantu dalam mengatur strategi pemasaran dan branding. Memperkuat brand yang paling populer dapat membantu dalam meningkatkan loyalitas pelanggan dan meningkatkan penjualan secara keseluruhan.
+
+5. Analisis Harga: Membandingkan harga produk dengan volume penjualan dapat memberikan wawasan tentang strategi harga yang efektif. Jika produk dengan harga yang lebih tinggi memiliki volume penjualan yang baik, maka perlu dipertimbangkan apakah harga tersebut masih kompetitif atau dapat ditingkatkan.
+
+Dengan menganalisis dataset tersebut dan mengikuti rekomendasi di atas, perusahaan dapat membuat keputusan bisnis yang lebih cerdas dan strategis untuk meningkatkan penjualan dan mengoptimalkan hasil.

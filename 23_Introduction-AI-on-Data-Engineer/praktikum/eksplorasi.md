@@ -126,3 +126,38 @@ Anda bekerja sebagai Data Engineer di sebuah perusahaan e-commerce. Perusahaan A
         ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/23_Introduction-AI-on-Data-Engineer/screenshots/output(2)_eksplorasi.png?raw=true)
 
     - Buat laporan atau presentasi yang menjelaskan bagaimana AI dapat membantu meningkatkan sistem rekomendasi.
+
+        1. Solusi dengan Kecerdasan Buatan
+
+            - Pengumpulan Data: AI memungkinkan pengumpulan dan analisis data yang lebih besar dan kompleks, termasuk data pembelian, profil pelanggan, interaksi pengguna, dan data produk. 
+            
+            - Pemrosesan Data: Menggunakan teknik seperti pembelajaran mesin dan penambangan data, AI dapat memproses data dengan cepat dan akurat, mengidentifikasi pola mendasar dalam 
+              perilaku pembelian pelanggan. 
+            
+            - Mengembangkan algoritme rekomendasi: AI memungkinkan pengembangan dan penerapan algoritme rekomendasi yang lebih kompleks dan adaptif, seperti pemfilteran kolaboratif,    
+              pemfilteran berbasis konten, dan metode asosiasi yang sesuai. 
+            
+            - Personalisasi: Dengan memanfaatkan pembelajaran mesin, AI dapat membuat profil pelanggan yang lebih mendalam dan memberikan rekomendasi yang lebih dipersonalisasi berdasarkan 
+              pada preferensi unik setiap pelanggan.
+
+        2. Integrasi Solusi AI
+        
+            - Pengumpulan dan pemrosesan data secara real-time atau batch.
+
+            - Integrasi algoritma rekomendasi AI ke dalam sistem rekomendasi yang sudah ada.
+
+            - Pengujian kinerja dan evaluasi solusi AI sebelum implementasi.
+
+        3. Manfaat Meningkatkan Sistem Rekomendasi dengan AI
+
+            - Penyediaan rekomendasi produk yang lebih relevan dan personal kepada pelanggan.
+
+            - Peningkatan konversi penjualan dan loyalitas pelanggan.
+
+            - Pengurangan biaya promosi yang tidak efektif melalui penargetan yang lebih akurat.
+
+        4. Kesimpulan
+
+            Penggunaan kecerdasan buatan untuk meningkatkan sistem rekomendasi e-commerce merupakan langkah strategis dalam menghadapi persaingan yang ketat di pasar digital saat ini.
+            Dengan memanfaatkan AI untuk mengumpulkan, memproses, dan menganalisis data serta mengembangkan algoritme rekomendasi yang kompleks, bisnis dapat memberikan pengalaman berbelanja yang lebih baik kepada pelanggan dan memperoleh keunggulan kompetitif secara signifikan.
+

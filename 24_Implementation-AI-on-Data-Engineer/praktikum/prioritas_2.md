@@ -4,16 +4,16 @@ Sebuah perusahaan retail ingin mengoptimalkan proses analisis data penjualan mer
 
     - Buatkan tabel dengan atribut kurang lebih memiliki tanggal transaksi, jumlah penjualan, harga, kategori produk, dan lainnya
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_1_prioritas_2.png?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_1_prioritas_2.png?raw=true)
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_1.1_prioritas_2.png?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_1.1_prioritas_2.png?raw=true)
 
 
 2. Generate SQL dengan OpenAI API (Opsional):
 
     - Gunakan OpenAI API untuk menghasilkan SQL queries. Misalnya, berikan prompt seperti "Buatkan SQL query untuk menghitung total penjualan per kategori produk setiap bulan."
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_2_prioritas_2.png?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_2_prioritas_2.png?raw=true)
 
     - Catat respons AI dan analisis keakuratan serta relevansi query yang dihasilkan.
 
@@ -41,7 +41,7 @@ Sebuah perusahaan retail ingin mengoptimalkan proses analisis data penjualan mer
 
     - Validasi SQL queries yang dihasilkan menggunakan sistem manajemen database yang ada. Pastikan query berjalan dengan benar dan menghasilkan output yang diharapkan.
 
-    ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_3_prioritas_2.png?raw=true)
+        ![alt text](https://github.com/ddzikri/de_muhammad-dzikri-rizaldi/blob/main/24_Implementation-AI-on-Data-Engineer/screenshots/no_3_prioritas_2.png?raw=true)
 
 
 4. Implementasi dan Analisis Hasil:
@@ -87,7 +87,7 @@ Sebuah perusahaan retail ingin mengoptimalkan proses analisis data penjualan mer
 
             -- Disini memang tidak akan mengubah perhitungan total perjualan tetapi secara pengoptimalan sebuah query ini merupakan paling optimal 
                tidak seperti sebelumnya.
-               
+
                 CREATE VIEW total_penjualan_per_bulan_per_kategori AS
 
                 SELECT 
